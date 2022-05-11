@@ -36,63 +36,49 @@ def get_synonyms(string):
             res.append(syn)
     return res
 
-matched_data = []
-def get_match(source_1, source_2):
-    def get_ratios(i, j):
-        #print(f"'{i}' vs '{j}'")
 
-        ratio = fuzz.ratio(i, j)
-        #print(f"Ratio : {ratio}")
+def closest_matches(df1, df2):
+    src1 = df1.name.to_list()
+    src2 = df2.name.to_list()
 
-        partial_ratio = fuzz.partial_ratio(root_words(i)[0], j)
-        #print(f"Partial Ratio : {partial_ratio}")
+    src1_dict = df1.name.to_dict()
+    src2_dict = dict([(value, key) for key, value in src1_dict.items()])
 
-        token_sort_ratio = fuzz.token_sort_ratio(i, j)
-        #print(f"Token sort Ratio : {token_sort_ratio}")
+    src2_dict = df2.name.to_dict()
+    src2_dict = dict([(value, key) for key, value in src2_dict.items()])
 
-        token_set_ratio = fuzz.token_set_ratio(i, j)
-        #print(f"Token set Ratio : {token_set_ratio}")
-        #print()
+    matched_ids = []
+    matched_names_ids = []
+    def get_match(src1, src2):
+        for item in src1:
+            best_match = process.extractOne(item, src2, scorer=fuzz.partial_token_sort_ratio)
+            confidence = best_match[1]
+            if confidence == 100:
+                src1_item_id = src1_dict[item]
 
-        return partial_ratio, token_set_ratio
+                src2_item = best_match[0]
+                src2_item_id = src2_dict[src2_item]
 
-    for i in source_2:
-        i = i.strip()
-        synonyms = get_synonyms(i) if ' ' not in i else None
-        all_synonyms = ''
-        if synonyms:
-            synonym_str = ' '.join(synonyms)
-            all_synonyms = i + ' ' + synonym_str
+                matched_ids.append(dict(source_1=src1_item_id, source_2=src2_item_id))
+                df_ids = pd.DataFrame(matched_ids)
+                df_ids.to_csv('matched_ids.csv')
 
-        for j in source_1:
-            partial_ratio, token_set_ratio = get_ratios(i, j)
-            if token_set_ratio == 100 or partial_ratio > 80:
-                matched_data.append(dict(s1=j, s2=i))
-                source_2.remove(i)
-                source_1.remove(j)
-                return get_match(source_1, source_2)
-            if len(all_synonyms) > 0:
-                partial_ratio = get_ratios(all_synonyms, j)[0]
-                if partial_ratio > 80:
-                    matched_data.append(dict(s1=j, s2=i))
-                    source_2.remove(i)
-                    source_1.remove(j)
-                    return get_match(source_1, source_2)
+                matched_names_ids.append(dict(id1=src1_item_id, source_1=item, id2=src2_item_id,source_2=src2_item))
+                df_names_ids = pd.DataFrame(matched_names_ids)
+                df_names_ids.to_csv('matched_names_ids.csv')
+
+                src1.remove(item)
+                src2.remove(src2_item)
+
+                print(df_names_ids)
+                return get_match(src1, src2)
             else:
                 continue
-    return matched_data
+    return matched_ids, matched_names_ids
 
-# Matched examples
-df_matched = pd.read_csv('matched_data.csv')
+#df_matched = pd.read_csv('matched_data.csv')
 df_s1 = pd.read_csv('source_1.csv')
 df_s2 = pd.read_csv('source_2.csv')
 
-src_1 = df_matched.source_1.to_list()
-src_2 = df_matched.source_2.to_list()
-#src_1 = df_s1.name.to_list()
-#src_2 = df_s2.name.to_list()
+closest_matches(df_s1, df_s2)
 
-df_data = get_match(src_1, src_2)
-df = pd.DataFrame(df_data)
-print(df)
-df.to_csv('matched_try.csv')
