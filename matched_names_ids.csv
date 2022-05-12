@@ -1,0 +1,1211 @@
+,id1,source_1,id2,source_2
+0,0,"Horses, asses, mules and hinnies; live, pure-bred breeding animals",20744,hinnies
+1,1,"Horses; live, pure-bred breeding animals",29816,animals
+2,2,"Horses; live, other than pure-bred breeding animals",36008,breeding
+3,3,"Horses, asses, mules and hinnies; live, other than pure-bred breeding animals",35887,mules
+4,5,"Cattle; live, pure-bred breeding animals",2890,cattle
+5,10,"Swine; live, pure-bred breeding animals",42193,swine
+6,11,"Swine; live, (other than pure-bred breeding animals), weighing less than 50kg",8968,weighing
+7,12,"Swine; live, (other than pure-bred breeding animals), weighing 50kg or more",18142,hing
+8,13,"Poultry; live, fowls of the species gallus domesticus, weighing not more than 185g",10108,gallus
+9,14,"Poultry; live, weighing not more than 185g, turkeys",21410,mor
+10,15,"Poultry; live, ducks, weighing not more than 185g",7311,ducks
+11,16,"Poultry; live, geese, weighing not more than 185g",15609,geese
+12,17,"Poultry; live, guinea fowls, weighing not more than 185g",18752,guinea
+13,18,"Poultry; live, weighing not more than 185g, ducks, geese, turkeys and guinea fowls",37520,owls
+14,19,"Poultry; live, fowls of the species gallus domesticus, weighing more than 185g",15065,ga
+15,20,"Poultry; live, weighing over 185g but not more than 2000g, fowls of the species gallus domesticus",39112,poultry
+16,21,"Poultry; live, weighing over 2000g, fowls of the species gallus domesticus",41638,species
+17,22,"Poultry; live, ducks, geese, turkeys and guinea fowls, weighing more than 185g",43252,turkey
+18,23,"Mammals; live, camels and other camelids (Camelidae)",3889,camelidae
+19,24,"Mammals; live, rabbits and hares",19550,hares
+20,25,"Mammals; live, other than primates, whales, dolphins and porpoises (order Cetacea), manatees and dugongs (order Sirenia)",3433,cetacea
+21,26,"Birds; live, ostriches; emus (Dromaius novaehollandiae)",8766,emus
+22,27,"Animals; live, birds, other than birds of prey and Psittaciformes",2703,cifor
+23,28,"Insects; live, bees",23434,insects
+24,29,"Insects; live, other than bees",36026,ec
+25,30,"Animals; live, n.e.c. in chapter 01, other than mammals, reptiles and birds",31214,mammals
+26,31,"Meat; of bovine animals, carcasses and half-carcasses, fresh or chilled",2059,carcasses
+27,32,"Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled",38356,arca
+28,33,"Meat; of bovine animals, boneless cuts, fresh or chilled",32461,fresh meat
+29,34,"Meat; of bovine animals, carcasses and half-carcasses, frozen",32462,meat
+30,36,"Meat; of bovine animals, boneless cuts, frozen",14555,frozen meat
+31,38,"Meat; of swine, hams, shoulders and cuts thereof, with bone in, fresh or chilled",1675,ms
+32,41,"Meat; of swine, hams, shoulders and cuts thereof, with bone in, frozen",19425,hams
+33,43,"Meat; of sheep, lamb carcasses and half-carcasses, fresh or chilled",26635,lamb meat
+34,52,"Offal, edible; of bovine animals, fresh or chilled",37280,offal
+35,53,"Offal, edible; of bovine animals, tongues, frozen",42666,tongue
+36,54,"Offal, edible; of bovine animals, livers, frozen",29318,liver
+37,59,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",17523,goa
+38,61,"Meat and edible offal; of the poultry of heading no. 0105, of fowls of the species gallus domesticus, (not cut in pieces), fresh or chilled",19685,head
+39,62,"Meat and edible offal; of the poultry of heading no. 0105, of fowls of the species gallus domesticus, (not cut in pieces), frozen",19699,heading
+40,63,"Meat and edible offal; of the poultry of heading no. 0105, of fowls of the species gallus domesticus, cuts and offal, fresh or chilled",48051,tic
+41,65,"Meat and edible offal; turkeys, not cut in pieces, frozen",43253,turkeys
+42,84,"Meat and edible meat offal; of whales, dolphins and porpoises (mammals of the order Cetacea) and manatees and dugongs (mammals of the order Sirenia), fresh, chilled or frozen",6930,dolphins
+43,87,"Fat; pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",41334,act
+44,89,"Meat, preserved; of swine, hams, shoulders and cuts thereof, with bone in, salted, in brine, dried or smoked",41120,shoulders
+45,90,"Meat, preserved; of swine, bellies (streaky) and cuts thereof, salted, in brine, dried or smoked",3534,bel
+46,93,"Meat and edible meat offal, preserved; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, other than of primates,whales, dolphins and porpoises, manatees and dugongs, reptiles (including snakes and turtles)",7332,dugongs
+47,94,"Fish; live, trout (salmo trutta, salmo gairdneri, salmo clarki, salmo aguabonita, salmo gilae)",4137,fish
+48,95,"Fish; live, eels (anguilla spp.)",8264,eels
+49,96,"Fish; live, carp",2300,carp
+50,97,"Fish; live, bluefin tunas (Thunnus thynnus)",30271,thunnus thynnus
+51,98,"Fish; live, southern bluefin tunas (Thunnus maccoyii)",42561,thunnus
+52,99,"Fish; trout (salmo trutta, salmo gairdneri, salmo clarki, salmo aguabonita, salmo gilae), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",4139,fresh fish
+53,100,"Fish; Pacific salmon (oncorhynchus spp.), Atlantic salmon (salmo salar), Danube salmon (hucho hucho), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",2975,salmo salar
+54,101,"Fish; fresh or chilled, Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou, Oncorhynchus rhodurus), not fillets, livers, roes, other fish meat of heading 0304",12073,fillets
+55,102,"Fish; fresh or chilled, Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho), excluding fillets, livers, roes, and other fish meat of heading 0304",6732,ube
+56,103,"Fish; salmonidae, fresh or chilled, n.e.s. in item no. 0302.1 (excluding fillets, livers, roes and other fish meat of heading no. 0304)",12111,fish fillets
+57,104,"Fish; halibut (reinhardtius hippoglossoides, hippoglossus hippoglossus, hippoglossus stenolepis), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",19351,halibut
+58,105,"Fish; plaice (pleuronectes platessa), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",31207,pleuronectes platessa
+59,106,"Fish; sole (solea spp.), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",37308,olea
+60,107,"Fish; fresh or chilled, turbots (Psetta maxima, Scophthalmidae), excluding fillets, livers, roes, and other fish meat of heading 0304",31380,scophthalmidae
+61,109,"Fish; albacore or longfinned tunas (thunnus alalunga), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",42165,ba
+62,110,"Fish; yellowfin tunas (thunnus albacares), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",40122,roes
+63,112,"Fish; bigeye tunas (Thunnus obesus), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",17121,sus
+64,113,"Fish; bluefin tunas (Thunnus thynnus), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",43235,tuna
+65,116,"Fish; herrings (clupea harengus, clupea pallasii), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",16433,clupea
+66,118,"Fish; fresh or chilled, anchovies (Engraulis spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",8913,engraulis
+67,119,"Fish; fresh or chilled, sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), excluding fillets, livers, roes, and other fish meat of heading 0304",3950,rattus
+68,120,"Fish; fresh or chilled, mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), excluding fillets, livers, roes, and other fish meat of heading 0304",17233,au
+69,121,"Fish; fresh or chilled, jack and horse mackerel (Trachurus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",30461,mackerel
+70,122,"Fish; fresh or chilled, cobia (Rachycentron canadum), excluding fillets, livers, roes, and other fish meat of heading 0304",7179,can
+71,123,"Fish; fresh or chilled, swordfish (Xiphias gladius), excluding fillets, livers, roes, and other fish meat of heading 0304",38100,ph
+72,124,"Fish; cod (gadus morhua, gadus ogac, gadus macrocephalus), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",5384,cod
+73,125,"Fish; fresh or chilled, haddock (Melanogrammus aeglefinus), excluding fillets, livers, roes, and other fish meat of heading 0304",73,doc
+74,126,"Fish; fresh or chilled, coalfish (Pollachius virens), excluding fillets, livers, roes, and other fish meat of heading 0304",5319,coal
+75,127,"Fish; fresh or chilled, hake (Merluccius spp., Urophycis spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",9693,phycis
+76,128,"Fish; fresh or chilled, Alaska pollack (Theragra chalcogramma), excluding fillets, livers, roes, and other fish meat of heading 0304",7195,alaska
+77,129,"Fish; fresh or chilled, blue whitings (Micromesistius poutassou, Micromesistius australis), excluding fillets, livers, roes, and other fish meat of heading 0304",40436,poutassou
+78,130,"Fish; sardines (sardina pilchardus, sardinops spp.), sardinella (sardinella spp.), brisling or sprats (sprattus sprattus), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",23683,sprattus sprattus
+79,131,"Fish; haddock (melanogrammus aeglefinus), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",3474,aegle
+80,132,"Fish; coalfish (pollachius virens), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",16313,pollachius
+81,133,"Fish; mackerel (scomber scombrus, scomber australasicus, scomber japonicus), fresh of chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",17449,ber
+82,134,"Fish; dogfish and other sharks, fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",6921,dogfish
+83,136,"Fish; swordfish (Xiphias gladius), fresh or chilled (excluding fillets, livers, roes and other fish meat of heading no. 0304)",42199,swordfish
+84,138,"Fish; fresh or chilled, tilapias (Oreochromis spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",9666,oreochromis
+85,139,"Fish; fresh or chilled, catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",7835,clarias
+86,140,"Fish; fresh or chilled, carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), excluding fillets, livers, roes, and other fish meat of heading 0304",1970,carassius
+87,142,"Fish; fresh or chilled, dogfish and other sharks, excluding fillets, livers, roes, and other fish meat of heading 0304",41089,sharks
+88,143,"Fish; fresh or chilled, rays and skates (Rajidae), excluding fillets, livers, roes, and other fish meat of heading 0304",22992,rajidae
+89,145,"Fish; fresh or chilled, seabass (Dicentrarchus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",6658,dicentrarchus
+90,146,"Fish; fresh or chilled, seabream (Sparidae), excluding fillets, livers, roes, and other fish meat of heading 0304",842,bream
+91,147,"Fish; Pacific salmon, sockeye salmon, (red salmon), (Oncorhynchus nerka,) frozen, (excluding fillets, livers, roes and other fish meat of heading no. 0304)",14544,frozen fish
+92,148,"Fish; frozen, Pacific salmon (Oncorhynchus gorbuscha/keta/tschawytscha/ kisutch/masou/rhodurus) other than sockeye salmon (Oncorhynchus nerka), excluding fillets, livers, roes, and other fish meat of heading 0304",37332,oncorhynchus
+93,149,"Fish; frozen, Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho), excluding fillets, livers, roes, and other fish meat of heading 0304",21286,hucho
+94,150,"Fish; frozen, trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster), excluding fillets, livers, roes, and other fish meat of heading 0304",41944,gaster
+95,151,"Fish; Pacific salmon, other than sockeye salmon, (Oncorhynchus gorbuscha/keta/tschawytscha/kisutch/masou/rhodurus), frozen, (excluding fillets, livers, roes and other fish meat of heading no. 0304)",37572,sockeye salmon
+96,152,"Fish; trout (salmo trutta, salmo gairdneri, salmo clarki, salmo aguabonita, salmo gilae), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",43009,trout
+97,154,"Fish; frozen, catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",8084,pangasius
+98,155,"Fish; frozen, carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), excluding fillets, livers, roes, and other fish meat of heading 0304",4210,ctenopharyngodon
+99,157,"Fish; salmonidae, frozen, n.e.s. in item no. 0302.1 and 0302.2 (excluding fillets, livers, roes and other fish meat of heading no. 0304)",23853,salmonidae
+100,158,"Fish; halibut (reinhardtius hippoglossoides, hippoglossus hippoglossus, hippoglossus stenolepis), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",20768,hippoglossoides
+101,159,"Fish; plaice (pleuronectes platessa), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",22192,ice
+102,161,"Fish; frozen, turbots (Psetta maxima, Scophthalmidae), excluding fillets, livers, roes, and other fish meat of heading 0304",43244,turbo
+103,163,"Fish; albacore or longfinned tunas (thunnus alalunga), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",43234,albacore
+104,170,"Fish; herrings (Clupea harengus, Clupea pallasii), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",20399,herrings
+105,171,"Fish; cod (Gadus morhua, Gadus ogac, Gadus macrocephalus), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",15097,gadus
+106,172,"Fish; frozen, sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), excluding fillets, livers, roes, and other fish meat of heading 0304",40464,sardina
+107,173,"Fish; frozen, mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), excluding fillets, livers, roes, and other fish meat of heading 0304",21531,scomber scombrus
+108,174,"Fish; frozen, jack and horse mackerel (Trachurus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",42718,trachurus
+109,176,"Fish; frozen, swordfish (Xiphias gladius), excluding fillets, livers, roes, and other fish meat of heading 0304",44158,xiphias
+110,180,"Fish; frozen, haddock (Melanogrammus aeglefinus), excluding fillets, livers, roes, and other fish meat of heading 0304",3949,mus
+111,181,"Fish; frozen, coalfish (Pollachius virens), excluding fillets, livers, roes, and other fish meat of heading 0304",7277,lac
+112,182,"Fish; frozen, hake (Merluccius spp., Urophycis spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",33443,merluccius
+113,183,"Fish; frozen, Alaska pollack (Theraga chalcogramma), excluding fillets, livers, roes, and other fish meat of heading 0304",38952,pollack
+114,184,"Fish; frozen, blue whitings (Micromesistius poutassou, Micromesistius australis), excluding fillets, livers, roes, and other fish meat of heading 0304",43999,whitings
+115,185,"Fish; sardines (sardina pilchardus, sardinops spp.), sardinella (sardinella spp.), brisling or sprats (sprattus sprattus), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",40465,sardinella
+116,186,"Fish; haddock (melanogrammus aeglefinus), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",19134,haddock
+117,188,"Fish; mackerel (scomber scombrus, scomber australasicus, scomber japonicus), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",40568,scomber
+118,192,"Fish; hake (merluccius spp., urophycis spp.), frozen (excluding fillets, livers, roes and other fish meat of heading no. 0304)",43437,urophycis
+119,196,"Fish; frozen, seabass (Dicentrarchus spp.), excluding fillets, livers, roes, and other fish meat of heading 0304",13055,aba
+120,197,"Fish; swordfish (Xiphias gladius), fillets and other fish meat (whether or not minced), fresh or chilled",8219,minced meat
+121,203,"Fish fillets; fresh or chilled, tilapias (Oreochromis spp.)",16276,tilapia
+122,204,"Fish fillets; fresh or chilled, catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",17405,pan
+123,205,"Fish fillets; fresh or chilled, Nile perch (Lates niloticus)",7570,lates
+124,206,"Fish fillets; fresh or chilled, salmon, Pacific (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic (Salmo salar), Danube (Hucho hucho)",23864,oncorhynchus nerka
+125,207,"Fish fillets; fresh or chilled, trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",18234,oncorhynchus mykiss
+126,208,"Fish fillets; fresh or chilled, flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)",19389,eu
+127,211,"Fish meat, excluding fillets, whether or not minced; fresh or chilled, tilapias, catfish, carp, eels, Nile perch, and snakeheads",37966,perch
+128,212,"Fish meat, excluding fillets, whether or not minced; fresh or chilled, salmonidae",40354,salmo
+129,215,"Fish fillets; frozen, tilapias (Oreochromis spp.)",40801,til
+130,216,"Fish fillets; frozen, catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",22274,ictalurus
+131,218,"Fish fillets; frozen, cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",26483,gadus macrocephalus
+132,219,"Fish fillets; frozen, haddock (Melanogrammus aeglefinus)",32956,melanogrammus
+133,220,"Fish fillets; frozen, coalfish (Pollachius virens)",38950,pollachius virens
+134,223,"Fish fillets; frozen, salmon, Pacific (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou, Oncorhynchus rhodurus), Atlantic (Salmo salar), and Danube (Hucho hucho)",23883,hucho hucho
+135,224,"Fish fillets; frozen, trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",44757,aster
+136,225,"Fish fillets; frozen, flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)",31168,bothidae
+137,227,"Fish fillets; frozen, tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis)",1051,genus
+138,232,"Fish; Pacific salmon (oncorhynchus spp.), Atlantic salmon (salmo salar) and Danube salmon (hucho hucho), including fillets, smoked (whether or not cooked before or during the smoking process)",40358,salmon
+139,233,"Fish; herrings (clupea harengus, clupea pallasii), including fillets; smoked (whether or not cooked before or during the smoking process)",41275,smoking
+140,236,"Fish; cod (gadus morhua, gadus ogac, gadus macrocephalus), dried (whether or not salted but not smoked)",6976,dried fish
+141,237,"Fish; herrings (clupea harengas, clupea pallasii), salted or in brine but not dried or smoked",38587,arenga
+142,239,"Fish; anchovies (engraulis spp.), salted or in brine but not dried or smoked",24207,anchovies
+143,241,"Crustaceans; rock lobsters and other sea crawfish (palinurus spp., panulirus spp., jasus spp.), frozen (whether in shell or not, whether or not cooked by steaming or by boiling in water)",5860,crawfish
+144,242,"Crustaceans; lobsters (homarus spp.), frozen (whether in shell or not, whether or not cooked by steaming or by boiling in water)",5920,crustacea
+145,243,"Crustaceans; shrimps and prawns, frozen (whether in shell or not, whether or not cooked by steaming or by boiling in water)",5921,crustaceans
+146,244,"Crustaceans; crabs, frozen (whether in shell or not, whether or not cooked by steaming or by boiling in water)",5849,crabs
+147,245,"Crustaceans; frozen, Norway lobsters (Nephrops norvegicus), in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",8899,oiling
+148,246,"Crustaceans; frozen, cold-water shrimps and prawns (Pandalus spp., Crangon crangon), in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",5432,cold
+149,247,"Crustaceans; frozen, shrimps and prawns, excluding cold-water varieties, in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",41095,shell
+150,248,"Crustaceans; rock lobster and other sea crawfish (palinurus spp., panulirus spp., jasus spp.), not frozen, (whether in shell or not, whether or not cooked by steaming or by boiling in water)",8672,steam
+151,249,"Crustaceans; lobsters (homarus spp.), not frozen, (whether in shell or not, whether or not cooked by steaming or by boiling in water)",20932,homarus
+152,250,"Crustaceans; shrimps and prawns, not frozen, (whether in shell or not, whether or not cooked by steaming or by boiling in water)",41865,steaming
+153,251,"Crustaceans; crabs, not frozen, (whether in shell or not, whether or not cooked by steaming or by boiling in water)",43845,water
+154,252,"Crustaceans; not frozen, Norway lobsters (Nephrops norvegicus), in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water; edible flours, meals, and pellets",12754,flours
+155,253,"Crustaceans; not frozen, cold-water shrimps and prawns (Pandalus spp., Crangon crangon), in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water; edible flour, meals, and pellets",5852,crangon
+156,254,"Crustaceans; not frozen, shrimps and prawns excluding cold-water varieties, in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water; edible flour, meals, and pellets",37921,pellets
+157,255,"Molluscs; oysters, live, fresh, chilled, frozen, dried, salted or in brine (whether in shell or not)",35007,molluscs
+158,256,"Molluscs; oysters, whether in shell or not, live, fresh or chilled",37555,oysters
+159,258,"Molluscs; scallops (including queen scallops of the genera pecten, chlamys or placopecten), live, fresh or chilled (whether in shell or not)",3941,chlamys
+160,259,"Molluscs; scallops (including queen scallops of the genera pecten, chlamys or placopecten), frozen, dried, salted or in brine (whether in shell or not)",37889,pecten
+161,260,"Molluscs; mussels (mytilus spp., perna spp.), live, fresh or chilled (whether in shell or not)",20029,perna
+162,261,"Molluscs; mussels (mytilus spp., perna spp.), frozen, dried, salted or in brine (whether in shell or not)",36396,mussels
+163,266,"Molluscs; clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae), whether in shell or not, live, fresh or chilled",5061,clams
+164,267,"Molluscs; clams, cockles, ark shells (Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae), whether in shell or not, other than live, fresh or chilled",5368,cockles
+165,268,"Molluscs; abalone (Haliotis spp.), whether in shell or not, live, fresh or chilled",19365,haliotis
+166,270,"Aquatic invertebrates; sea cucumbers (Stichopus japonicus, Holothurioidea), live, fresh or chilled",524,cucumbers
+167,271,"Aquatic invertebrates; sea cucumbers (Stichopus japonicus, Holothurioidea), frozen, dried, salted or in brine, smoked, whether or not cooked before or during the smoking process",23866,invertebrates
+168,272,"Aquatic invertebrates; sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus), live, fresh or chilled",1213,ox
+169,273,"Aquatic invertebrates; sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus), frozen, dried, salted or in brine, smoked, whether or not cooked before or during smoking process",4760,paracentrotus
+170,274,"Aquatic invertebrates; jellyfish (Rhopilema spp.), live, fresh, chilled, frozen, dried, salted or in brine, smoked, whether or not cooked before or during smoking",5145,rhopilema
+171,275,"Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content not exceeding 1% (by weight)",5869,cream
+172,276,"Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content exceeding 1% but not exceeding 6% (by weight)",21175,dde
+173,277,"Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content exceeding 6% (by weight)",34220,milk
+174,278,"Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6% but not exceeding 10%",39255,produce
+175,279,"Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 10%",42081,sugar
+176,280,"Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",17952,granules
+177,281,"Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",43947,weight
+178,285,"Dairy produce; whey, whether or not concentrated or containing added sugar or other sweetening matter",6647,air
+179,286,"Dairy produce; natural milk constituents (excluding whey), whether or not containing added sugar or other sweetening matter, n.e.s. in chapter 04",43987,whey
+180,288,"Dairy produce,  fats and oils derived from milk (other than butter or dairy spreads)",11196,fats
+181,289,"Dairy produce; fresh cheese (including whey cheese), not fermented, and curd",534,curd
+182,290,"Dairy produce; cheese of all kinds, grated or powdered",3577,cheese
+183,293,"Eggs; birds' eggs, in the shell, fresh, preserved or cooked",8396,eggs
+184,294,"Birds' eggs, in shell; fresh, fertilised eggs for incubation, of fowls of the species Gallus domesticus (domestic hens)",1235,hens
+185,295,"Birds' eggs, in shell; fresh, fertilised eggs for incubation, other than fowls of the species Gallus domesticus (domestic hens)",5944,cuba
+186,296,"Birds' eggs, in shell; fresh, not for incubation, of fowls of the species Gallus domesticus (domestic hens)",45419,birds
+187,300,"Eggs; birds' eggs, yolks, fresh, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",8397,fresh eggs
+188,302,"Eggs; birds' eggs (not in shell, excluding yolks only), fresh, cooked by steaming or boiling in water, moulded, frozen, otherwise preserved, whether or not containing added sugar or other sweetening matter",45841,boiling
+189,303,"Honey,  natural",20984,honey
+190,304,"Animal products; edible, n.e.s. in this or other chapters",39256,products
+191,305,"Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",914,bristles
+192,306,"Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.s. in heading no. 0502 (excluding horsehair)",5596,istle
+193,307,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof",41945,stomach
+194,308,"Animal products,  bovine semen",33181,men
+195,309,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates and dead animals of chapter 3, unfit for human consumption",5610,consumption
+196,311,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",1195,bulbs
+197,312,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",4598,crown
+198,313,"Plants, live; unrooted cuttings and slips",6217,cutting
+199,314,"Plants, live; rhododendrons and azaleas, grafted or not",38591,plants
+200,315,"Plants, live; roses, grafted or not",2916,roses
+201,316,"Plants, live; n.e.s. in heading no. 0602",36970,ants
+202,317,"Flowers, cut; flowers, buds of a kind suitable for bouquets or for ornamental purposes, fresh",1139,buds
+203,318,"Flowers, cut; roses, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",5038,cut flowers
+204,319,"Flowers, cut; carnations, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",4573,ions
+205,320,"Flowers, cut; orchids, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",12817,flowers
+206,321,"Flowers, cut; chrysanthemums, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",4274,chrysanthemum
+207,322,"Flowers, cut; lilies (Lilium spp.), flowers and flower buds of a kind suitable for bouquets or ornamental purposes, fresh",1326,ilium
+208,323,"Flowers, cut; flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh, other than roses, carnations, orchids, or chrysanthemums",17666,chrysanthemums
+209,325,"Vegetables; seed potatoes, fresh or chilled",466,seed potatoes
+210,326,"Vegetables, alliaceous; onions and shallots, fresh or chilled",3141,shallots
+211,327,"Vegetables, alliaceous; leeks and other kinds n.e.s. in heading no. 0703, fresh or chilled",43540,vegetables
+212,328,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",735,brassica
+213,329,"Vegetables, brassica; brussel sprouts, fresh or chilled",11486,brass
+214,331,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",5673,age
+215,332,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",4515,cichorium
+216,333,"Vegetables; chicory (cichorium spp.), (other than witloof chicory), fresh or chilled",45764,chicory
+217,334,"Vegetables, root; carrots and turnips, fresh or chilled",23970,ips
+218,335,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",2730,radishes
+219,336,"Vegetables; cucumbers and gherkins, fresh or chilled",1059,gherkins
+220,337,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",1523,legumin
+221,338,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",17476,beans
+222,339,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",2100,peas
+223,340,"Vegetables; celery (other than celeriac), fresh or chilled",3039,celeriac
+224,341,"Vegetables; mushrooms, fresh or chilled",8211,mushrooms
+225,342,"Vegetables; truffles, fresh or chilled",43029,truffles
+226,343,"Vegetables; mushrooms other than of the genus Agaricus, fresh or chilled",5387,agar
+227,344,"Vegetables,  fruits of the genus capsicum or of the genus pimenta",1803,cap
+228,347,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",6142,cucurbita
+229,349,"Vegetables; potatoes, uncooked or cooked by steaming or boiling in water, frozen",3478,toes
+230,350,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",38473,pisum
+231,351,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",38118,phaseolus
+232,353,"Vegetables; spinach, New Zealand spinach and orache spinach (garden spinach), uncooked or cooked by steaming or boiling in water, frozen",26743,land
+233,354,"Vegetables; sweetcorn, uncooked or cooked by steaming or boiling in water, frozen",8379,tc
+234,355,"Vegetables; uncooked or cooked by steaming or boiling in water, frozen, n.e.s. in chapter 7",42345,tea
+235,356,"Vegetable mixtures; uncooked or cooked by steaming or boiling in water, frozen",4425,water table
+236,357,"Vegetables; olives, provisionally preserved but unsuitable in that state for immediate consumption",43759,vision
+237,359,"Vegetables; mushrooms of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",5410,agaricus
+238,360,"Vegetables; mushrooms other than of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",21938,gari
+239,362,"Vegetables; onions, whole, cut, sliced, broken or in powder but not further prepared, dried",1964,onions
+240,363,"Vegetables; mushrooms and truffles, whole, cut, sliced, broken or in powder but not further prepared, dried",38219,lice
+241,364,"Vegetables; wood ears (Auricularia spp), whole, cut, sliced, broken or in powder but not further prepared, dried",7586,ears
+242,365,"Vegetables; jelly fungi (Tremella spp)), whole, cut, sliced, broken or in powder but not further prepared, dried",14892,fungi
+243,366,"Vegetables; mushrooms, other than the genus Agaricus and truffles, whole, cut, sliced, broken or in powder but not further prepared, dried",44000,who
+244,368,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",38475,pisum sativum
+245,369,"Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, dried, shelled, whether or not skinned or split",41222,skin
+246,370,"Vegetables, leguminous; small red (adzuki) beans (phaseolus or vigna angularis), shelled, dried, whether or not skinned or split",43349,uk
+247,372,"Vegetables, leguminous; bambara beans (Vigna subterranea or Voandzeia subterranea), shelled, whether or not skinned or split, dried",43659,vigna
+248,375,"Vegetables, leguminous; broad beans (vicia faba var. major) and horse beans (vicia faba var. equina and vicia faba var. minor), dried, shelled, whether or not skinned or split",820,broad beans
+249,377,"Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers, high starch or inulin content, whether or not sliced or in the form of pellets, fresh or dried; sago pith",3785,arrowroot
+250,378,"Nuts, edible; coconuts, fresh or dried, whether or not shelled or peeled, desiccated",1928,nuts
+251,379,"Nuts, edible; coconuts, in the inner shell (endocarp)",11003,endocarp
+252,380,"Nuts, edible; coconuts, fresh or dried, whether or not shelled or peeled, other than desiccated",7313,peel
+253,381,"Nuts, edible; Brazil nuts, fresh or dried, whether or not shelled or peeled",808,brazil
+254,387,"Nuts, edible; almonds, fresh or dried, in shell",44535,almonds
+255,389,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",5606,filberts
+256,390,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",5607,hazelnuts
+257,391,"Nuts, edible; walnuts, fresh or dried, in shell",3688,walnuts
+258,393,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",2655,castanea
+259,394,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, shelled",42541,chest
+260,395,"Nuts, edible; pistachios, fresh or dried, in shell",46484,chios
+261,397,"Nuts, edible; macadamia, fresh or dried, whether or not shelled or peeled",27823,maca
+262,398,"Nuts, edible; macadamia, fresh or dried, in shell",1617,macadamia nuts
+263,399,"Nuts, edible; macadamia, fresh or dried, shelled",30373,macadamia
+264,400,"Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",38503,areca
+265,402,"Fruit, edible; bananas, other than plantains, fresh or dried",14597,fruit
+266,403,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",1161,guavas
+267,405,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",4861,citrus
+268,406,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",27742,lemons
+269,408,"Fruit, edible; grapes, fresh",13003,pes
+270,409,"Fruit, edible; melons, (other than watermelons), fresh",1713,melons
+271,411,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",39377,cerasus
+272,412,"Fruit, edible; peaches including nectarines, fresh",36808,nectar
+273,413,"Fruit, edible; plums and sloes, fresh",38879,plums
+274,414,"Fruit, edible; black, white or red currants and gooseberries, fresh",17648,gooseberries
+275,416,"Fruit, edible; durians, fresh",677,durians
+276,418,"Fruit, edible; fruits n.e.s. in heading no. 0801 to 0810, fresh",14731,fruits
+277,419,"Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",41987,straw
+278,420,"Fruit, edible; raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, uncooked or cooked, whether or not containing added sugar or other sweetening matter",8725,mulberries
+279,426,"Fruit, edible; prunes, dried",2607,prunes
+280,430,"Peel; of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water and other preservative solutions",42115,sulphur
+281,431,"Coffee,  not roasted or decaffeinated",5413,coffee
+282,432,"Coffee; decaffeinated, not roasted",37189,oas
+283,435,"Coffee,  husks and skins",20650,skins
+284,436,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",22109,husks
+285,437,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",43067,rm
+286,441,"Spices; pepper (of the genus piper), neither crushed nor ground",3961,spices
+287,442,"Spices; pepper (of the genus piper), crushed or ground",8736,pepper
+288,443,"Spices; fruits of the genus capsicum or pimenta, dried or crushed or ground",1927,capsicum
+289,444,"Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",6985,dried fruits
+290,445,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",20181,rush
+291,446,"Spices,  vanilla",22219,ices
+292,447,"Spices; vanilla, neither crushed nor ground",43352,un
+293,449,"Spices; cinnamon and cinnamon-tree flowers, neither crushed nor ground",45829,cinnamon
+294,450,"Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",4658,cinnamomum
+295,451,"Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",20798,amomum
+296,453,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",8758,ems
+297,454,"Spices; cloves (whole fruit, cloves and stems), crushed or ground",41879,stems
+298,458,"Spices,  mace",8722,mace
+299,461,"Spices,  cardamoms",45628,cardamoms
+300,464,"Spices,  anise or badian seeds",44631,anise
+301,465,"Spices,  coriander seeds",477,coriander
+302,466,"Spices; coriander seeds, neither crushed nor ground",40686,seed
+303,467,"Spices; coriander seeds, crushed or ground",40721,seeds
+304,468,"Spices,  cumin seeds",531,cumin
+305,471,"Spices,  caraway seeds",45612,caraway
+306,472,"Spices,  fennel or juniper seeds",860,fennel
+307,473,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",44630,anis
+308,474,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",44631,anise
+309,477,"Spices,  saffron",2965,saffron
+310,478,"Spices,  turmeric (curcuma)",3558,turmeric
+311,481,"Cereals,  durum wheat",3385,cereals
+312,482,"Cereals; wheat and meslin, durum wheat, seed",19781,heat
+313,483,"Cereals; wheat and meslin, durum wheat, other than seed",43983,wheat
+314,493,"Cereals; maize (corn), seed",1636,corn (maize)
+315,494,"Cereals; maize (corn), other than seed",1637,maize
+316,495,"Cereals,  rice in the husk (paddy or rough)",40033,paddy
+317,496,"Cereals,  husked (brown) rice",40034,rice
+318,497,"Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",18171,holly
+319,498,"Cereals; grain sorghum, seed",776,rai
+320,499,"Cereals; grain sorghum, other than seed",17813,grain
+321,515,"Cereal grains; rolled or flaked, of oats",39724,rain
+322,522,"Flakes,  of potatoes",26614,lakes
+323,524,"Flour and meal; of sago, roots or tubers of heading no. 0714",3826,sago
+324,526,"Malt,  not roasted",31054,malt
+325,528,"Starch,  wheat",41833,starch
+326,529,"Starch,  potato",3816,potato starch
+327,531,Inulin,23852,inulin
+328,532,"Wheat gluten,  whether or not dried",16428,gluten
+329,543,"Oil seeds; cotton seeds, seed, whether or not broken",5816,cotton
+330,549,"Flours and meals of oil seeds or oleaginous fruits,  excluding soya beans and mustard seeds",8727,mustard
+331,550,"Seed; sugar beet seed, of a kind used for sowing",41616,sowing
+332,552,"Seed; lucerne (alfalfa) seed, of a kind used for sowing",32735,alfalfa
+333,553,"Seed; clover (trifolium spp.) seed, of a kind used for sowing",42858,trifolium
+334,555,"Seed; kentucky blue grass (poa pratensis l.) seed, of a kind used for sowing",8958,ensis
+335,556,"Seed; rye grass (lolium multiflorum lam., lolium perenne l.) seed, of a kind used for sowing",29629,lolium
+336,557,"Seed; of forage plants, other than beet seed, n.e.s. in item no. 1209.2",20658,forage
+337,561,"Hop cones,  neither ground nor powdered nor in the form of pellets",4209,cones
+338,563,"Ginseng roots, used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes; fresh or dried, whether or not cut, crushed or powdered",20209,ginseng
+339,564,"Coca leaf; used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not crushed or powdered",37533,oca
+340,566,"Plants and parts (including seeds and fruits) n.e.s. in heading no. 1211, used primarily in perfumery, pharmacy or for insecticidal, fungicidal purposes; fresh or dried, whether or not cut, crushed or powdered",14730,fresh fruits
+341,567,"Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",3071,seaweeds
+342,572,Lucerne (alfalfa) meal and pellets,8721,lucerne meal
+343,573,"Forage products including swedes, mangolds, fodder roots, hay, sainfoin, clover, forage kale, lupines, vetches etc., pelletised or otherwise",19675,hay
+344,574,Gum Arabic,18921,gum arabic
+345,575,"Natural gums, resins, gum-resins, balsams, n.e.s. in heading no. 1301",37233,balsa
+346,576,"Vegetable saps and extracts,  opium",5057,opium
+347,577,"Vegetable saps and extracts,  of liquorice",1563,liquorice
+348,578,"Vegetable saps and extracts,  of hops",1271,hops
+349,579,"Vegetable saps and extracts,  of pyrethrum or of the roots of plants containing rotenone",10840,extracts
+350,580,"Vegetable saps and extracts,  n.e.s. in item no. 1302.1",27677,acts
+351,581,"Mucilages and thickeners; agar-agar, whether or not modified, derived from vegetable products",5388,agar agar
+352,582,Bamboo used primarily for plaiting,19788,lai
+353,583,"Vegetable products,  cotton linters",2349,vegetable products
+354,590,"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil; not emulsified or mixed or otherwise prepared",41867,stearin
+355,591,"Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",37296,oils
+356,592,Wool grease and fatty substances derived therefrom (including lanolin),16698,substances
+357,596,"Vegetable oils; ground-nut oil and its fractions, crude, not chemically modified",43533,vegetable oils
+358,601,"Vegetable oils; palm oil and its fractions, crude, not chemically modified",37628,palm oils
+359,603,"Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",2964,safflower
+360,604,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",19989,sunflower
+361,605,"Vegetable oils; cotton-seed oil and its fractions; crude, whether or not gossypol has been removed, not chemically modified",4863,gossypol
+362,623,"Vegetable oils; jojoba oil and its fractions, whether or not refined, but not chemically modified",1421,jojoba
+363,625,"Animal fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",21729,hydrogen
+364,627,"Margarine,  excluding liquid margarine",31718,margarine
+365,628,"Edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils of heading no. 1516",39879,rent
+366,630,Industrial monocarboxylic fatty acids n.e.s. in heading no. 1519,7407,dust
+367,631,"Vegetable waxes (other than triglycerides),  whether or not refined or coloured",3516,triglycerides
+368,632,"Degras,  residues resulting from the treatment of fatty substances or animal or vegetable waxes",39908,residues
+369,633,"Meat preparations; sausages and similar products, of meat, meat offal or blood, and food preparations based on these products",2966,sage
+370,634,"Meat preparations; homogenised preparations of meat, meat offal or blood",37716,para
+371,635,"Meat preparations,  of the prepared or preserved liver of any animal (excluding homogenised preparations)",39773,rations
+372,643,"Meat preparations; of meat, meat offal or the blood of any animal, n.e.s. in heading no. 1602",45589,blood
+373,646,"Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",41751,brisling
+374,651,"Fish preparations,  caviar and caviar substitutes",2921,caviar
+375,652,"Fish preparations,  caviar",18785,cavia
+376,655,"Crustacean preparations; shrimps and prawns, prepared or preserved",45156,awns
+377,656,"Crustacean preparations; shrimps and prawns, prepared or preserved, not in airtight containers",5617,containers
+378,660,"Mollusc preparations; scallops, including queen scallops, prepared or preserved",40515,scallops
+379,664,"Mollusc preparations; clams, cockles and arkshells, prepared or preserved",39161,arkshells
+380,668,"Aquatic invertebrates; sea cucumbers, prepared or preserved",43578,vertebrates
+381,669,"Aquatic invertebrates; sea urchins, prepared or preserved",40642,sea urchins
+382,672,"Sugars; cane sugar, raw, in solid form, not containing added flavouring or colouring matter",904,flavour
+383,673,"Sugars; beet sugar, raw, in solid form, not containing added flavouring or colouring matter",5488,colour
+384,674,"Sugars; cane sugar, raw, in solid form, as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",12517,flavouring
+385,675,"Sucrose; chemically pure, containing added flavouring or colouring matter, in solid form",42076,sucrose
+386,677,"Sugars; lactose and lactose syrup, containing by weight 99% or more lactose, expressed as anhydrous lactose, calculated on the dry matter",26469,lactose
+387,680,"Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",14582,fructose
+388,682,"Sugars; fructose, chemically pure, in solid form",42101,sugars
+389,685,"Sugars; molasses, from sugar cane, resulting from the extraction or refining of sugar",5940,traction
+390,686,"Sugars; molasses, from sugar beet, resulting from the extraction or refining of sugar",21389,extraction
+391,687,"Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",4074,chocolate
+392,688,"Cocoa; shells, husks, skins and other cocoa waste",8155,cocoa husks
+393,693,"Chocolate & other food preparations containing cocoa; in blocks, slabs or bars weighing more than 2kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, content exceeding 2kg",5424,cola
+394,697,"Food preparations; mixes and doughs for the preparation of bread, pastry, cakes, biscuits and other bakers' wares",814,bread
+395,698,"Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.s. in heading no. 1901",43450,uses
+396,699,"Food preparations; pasta, containing eggs, uncooked, not stuffed or otherwise prepared",18900,tuff
+397,700,"Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",37848,pasta
+398,704,"Food preparations; tapioca and substitutes thereof, prepared from starch in the form of flakes, grains, pearls, siftings or similar",37884,pearls
+399,705,"Food preparations,  obtained by the swelling or roasting of cereals or cereal products",9995,swelling
+400,707,"Prepared foods obtained by the swelling or roasting of cereals or cereal products (eg corn flakes); cereals, not maize (corn), in grain form or in the form of flakes or other worked grains, from bulgur wheat",11294,bulgur
+401,711,"Food preparations; sweet biscuits, waffles and wafers, whether or not containing cocoa",5030,biscuits
+402,716,"Vegetable preparations; cucumbers and gherkins, prepared or preserved by vinegar or acetic acid",43228,acetic acid
+403,717,"Vegetable preparations; vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid (excluding cucumbers, gherkins and onions)",16851,plant parts
+404,718,"Vegetable preparations; tomatoes, whole or in pieces, prepared or preserved otherwise than by vinegar or acetic acid",43731,vinegar
+405,732,"Vegetable preparations; sweetcorn (zea mays var. saccharata), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",10571,zea
+406,733,"Vegetable preparations; bamboo shoots, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",3154,shoots
+407,736,"Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes; homogenised, cooked preparations, whether or not containing added sugar or other sweetening matter",1668,marmalades
+408,737,"Jams, jellies, marmalades, purees and pastes; of citrus fruit, being cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",25188,jams
+409,738,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.s. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",44886,pastes
+410,746,"Fruit; peaches, prepared or preserved in ways n.e.s. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",37875,peaches
+411,748,"Palm hearts; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",19752,heart
+412,750,"Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",43469,vaccinium
+413,768,"Juice; Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea) juice, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",43782,vitis
+414,771,"Preparations with a basis of extracts, essences or concentrates or with a basis of coffee",5565,concentrates
+415,773,"Yeasts,  active",44181,yeasts
+416,774,"Yeasts; inactive, other single-cell micro-organisms, dead",36012,organisms
+417,775,"Baking powders,  prepared",7457,powders
+418,776,"Sauces,  tomato ketchup and other tomato sauces",40483,sauces
+419,778,"Sauces and preparations therefor,  mixed condiments and mixed seasonings",5570,condiments
+420,779,Soups and broths and preparations therefor,4546,soups
+421,780,Homogenised composite food preparations,16929,site
+422,782,"Protein,  concentrates and textured protein substances",3863,texture
+423,784,"Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)",7204,neral
+424,785,"Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow",41288,snow
+425,787,"Non-alcoholic beverages; n.e.s. in item no. 2202.10, not including fruit or vegetable juices of heading no. 2009",8112,alcoholic beverages
+426,789,"Wine,  sparkling",45741,champagne and sparkling wines
+427,793,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers holding 2 litres or less",3620,vermouth
+428,794,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers holding more than 2 litres",17966,grapes
+429,795,"Beverages, fermented; (eg cider, perry, mead)",2205,perry
+430,796,"Undenatured ethyl alcohol,  of an alcoholic strength by volume of 80% vol. or higher",41989,strength
+431,797,"Ethyl alcohol and other spirits; denatured, of any strength",41719,spirits
+432,798,Spirits obtained by distilling grape wine or grape marc,6880,distilling
+433,799,Whiskies,3718,whiskies
+434,802,Vodka,6989,vodka
+435,803,Liqueurs and cordials,9974,cord
+436,804,"Spirits, liqueurs and other spirituous beverages; n.e.s. in heading no. 2208",29010,liqueurs
+437,806,"Flours, meals and pellets; of meat or meat offal, greaves",45134,aves
+438,808,"Bran, sharps and other residues; of rice, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",709,bran
+439,809,"Bran, sharps and other residues; of other cereals, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",710,cereal bran
+440,810,"Bran, sharps and other residues; of leguminous plants, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",34376,milling
+441,812,"Brewing or distilling dregs and waste,  whether or not in the form of pellets",894,brewing
+442,822,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of palm nuts or kernels oils",8638,kernels
+443,825,"Wine lees,  argol",11493,lees
+444,826,"Vegetable materials and vegetable waste, vegetable residues and by-products; whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included",11429,feeding
+445,827,"Dog or cat food; put up for retail sale, used in animal feeding",39940,retail
+446,828,"Dog or cat food; (not put up for retail sale), used in animal feeding",42258,tail
+447,829,"Tobacco, (not stemmed or stripped)",42641,tobacco
+448,831,Tobacco refuse,2829,refuse
+449,832,"Cigars, cheroots and cigarillos; containing tobacco including the weight of every band, wrapper or attachment thereto",40149,roots
+450,833,"Cigars, cigarillos and cheroots; containing tobacco substitutes including the weight of every band, wrapper or attachment thereto",41055,atta
+451,840,Aviation spirit **LEGACY NON-WCO CODE**,6820,aviation
+452,841,Light petroleum distillates nes **LEGACY NON-WCO CODE**,28521,light
+453,842,Phosphorus,5909,dissolved organic phosphorus
+454,844,Phosphoric acid and polyphosphoric acids,45273,acids
+455,845,"Ammonia,  anhydrous",19505,ammonia
+456,846,"Halogenated derivatives of aromatic hydrocarbons; hexachlorobenzene and DDT (1,1,1-tri-chloro-2,2-bis (p-chlorophenyl) ethane)",2027,carbon
+457,847,"Alcohols; polyhydric, glycerol",8263,alcohols
+458,848,"Alcohols; cyclanic, cyclenic or cycloterpenic and derivatives, menthol",8724,menthol
+459,849,"Aldehyde-ethers, aldehyde-phenols and aldehydes with other oxygen function; vanillin (4-hydroxy-3-methoxybenzaldehyde)",2244,phenols
+460,850,"Acids; unsaturated acyclic monocarboxylic acids; oleic, linoleic or linolenic acids, their salts and esters",9818,esters
+461,851,"Acids; unsaturated acyclic monocarboxylic, cyclic monocarboxylic, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives, binapacryl (ISO)",37537,oxides
+462,852,"Acids; carboxylic acids, (with alcohol function but without other oxygen function), citric acid",37545,oxygen
+463,854,"Amino-aldehydes, amino-ketones and amino-quinones; other than those containing more than one kind of oxygen function; salts thereof",8385,aldehydes
+464,855,"Cyclic amides (including cyclic carbamates) and their derivatives, ureines and their derivatives; salts thereof",1973,carbamates
+465,856,"Organo-sulphur compounds,  thiocarbamates and dithiocarbamates",1974,dithiocarbamates
+466,857,"Organo-sulphur compounds,  captafol (ISO) and methamidophos (ISO)",14704,captafol
+467,858,"Heterocyclic compounds; with oxygen hetero-atom(s) only, (other than lactones or compounds containing an unfused furan ring (whether or not hydrogenated) in the structure), n.e.s. in item no. 2932.9",26459,lactones
+468,864,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",5544,mixed fertilizers
+469,865,"Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",11766,fertilizers
+470,866,"Fertilizers, mineral or chemical; nitrogenous, ammonium sulphate",10920,mineral fertilizers
+471,867,"Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",16208,ammonium
+472,868,"Fertilizers, mineral or chemical; nitrogenous, ammonium nitrate, whether or not in aqueous solution",370,nitrate-nitrogen
+473,869,"Fertilizers, mineral or chemical; ammonium nitrate with calcium carbonate or other inorganic non-fertilizing substances, mixtures thereof",1438,calcium
+474,870,"Fertilizers, mineral or chemical; nitrogenous, sodium nitrate",37013,nitrogen
+475,871,"Fertilizers, mineral or chemical; nitrogenous, double salts and mixtures of calcium nitrate and ammonium nitrate",17209,salts
+476,872,"Fertilizers, mineral or chemical; nitrogenous, mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",43393,urea
+477,874,"Fertilizers, mineral or chemical; phosphatic, superphosphates",20550,phosphates
+478,877,"Fertilizers, mineral or chemical; potassic, potassium chloride",39096,potassium
+479,878,"Fertilizers, mineral or chemical; potassic, potassium sulphate",39106,potassium sulphate
+480,880,"Fertilizers, mineral or chemical; in tablets or similar forms or in packages of a gross weight not exceeding 10kg",5197,tablets
+481,881,"Fertilizers, mineral or chemical; containing the three fertilizing elements nitrogen, phosphorus and potassium",8526,elements
+482,882,"Fertilizers, mineral or chemical; diammonium hydrogenorthophosphate (diammonium phosphate)",21691,ammonium fertilizers
+483,885,"Fertilizers, mineral or chemical; containing the two fertilizing elements nitrogen and phosphorus, other than nitrates and phosphates",37006,nitrates
+484,886,"Fertilizers, mineral or chemical; containing the two fertilizing elements phosphorus and potassium",38198,phosphorus
+485,888,"Oils, essential; of orange (terpeneless or not), including concretes and absolutes",5569,concrete
+486,889,"Oils, essential; of lemon (terpeneless or not), including concretes and absolutes",7417,solutes
+487,891,"Oils, essential; of peppermint (mentha piperita), terpeneless or not, including concretes and absolutes",1774,mint
+488,892,"Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",33326,peppermint
+489,895,"Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions",11614,solutions
+490,896,Casein,359,kappa-casein
+491,897,"Caseinates and other casein derivatives,  casein glues",1876,glues
+492,898,"Albumins,  egg albumin",7971,albumins
+493,901,"Albumins; milk albumin, including concentrates of two or more whey proteins",39347,proteins
+494,902,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",2437,casein
+495,904,Dextrins and other modified starches,6637,dextrins
+496,905,"Enzymes,  rennet and concentrates thereof",7339,rennet
+497,906,"Insecticides,  put up in forms or packings for retail sale or as preparations or articles",23400,insecticides
+498,907,"Fungicides,  put up in forms or packings for retail sale or as preparations or articles",14905,fungicides
+499,908,"Herbicides, anti-sprouting products and plant-growth regulators; put up in forms or packings for retail sale or as preparations or articles",4163,sprouting
+500,909,"Insecticides, rodenticides, fungicides, disinfectants, herbicides and the like; containing one or more substances specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",6869,disinfectants
+501,911,"Industrial monocarboxylic fatty acids, acid oils from refining; tall oil fatty acids",11215,fatty acids
+502,912,"Sorbitol,  other than that of subheading no. 2905.44",41543,sorbitol
+503,913,"Biodiesel and mixtures thereof,  not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals",19618,biodiesel
+504,914,"Rubber; natural rubber latex, whether or not pre-vulcanised, in primary forms or in plates, sheets or strip",17122,canis
+505,915,"Rubber; natural (excluding latex), in smoked sheets",27250,latex
+506,916,"Rubber; technically specified natural rubber (TSNR), in primary forms or in plates, sheets or strip (excluding latex and smoked sheets)",40189,rubber
+507,918,"Balata, gutta-percha, guayule, chicle and similar natural gums; in primary forms or in plates, sheets or strip",3737,chicle
+508,919,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 14kg when fresh, wet-salted or otherwise preserved",36191,wet weight
+509,921,"Hides and skins; (not whole), but including butts, bends and bellies, of bovine (incl. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",19311,hair
+510,922,"Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",26646,lambs
+511,923,"Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",44105,wool
+512,924,"Skins; raw, of sheep or lambs, fresh or salted, dried, limed or otherwise preserved other than by pickling, (but not tanned, parchment-dressed or further preserved), without wool on",38315,pickling
+513,926,"Hides and skins; raw, of animals n.e.s. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split (not furskins)",15005,furs
+514,927,"Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet blue), full grains, unsplit; grain splits",16922,state
+515,933,"Tanned or crust hides and skins; of goats or kids, without hair on, whether or not split, but not further prepared, in the wet state (including wet blue)",25944,kids
+516,937,"Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet blue)",39897,reptiles
+517,940,"Furskins; raw, of Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws",22694,india
+518,943,"Furskins; raw, heads, tails, paws and other pieces or cuttings, suitable for furrier's use, excluding goods of heading no. 4101, 4102 and 4103",6220,cuttings
+519,946,"Furskins; tanned or dressed, heads, tails, paws and other pieces or cuttings, not assembled, excluding goods of heading no. 4303",42620,tin
+520,948,"Furskin articles,  other than apparel and clothing accessories",46292,clothing
+521,949,"Wood; in chips or particles, coniferous",37018,nif
+522,950,"Wood; in chips or particles, non-coniferous",44077,wood
+523,951,"Wood; sawdust, waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms",8146,briquettes
+524,952,"Wood; for fuel, sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms; wood pellets",29601,logs
+525,953,"Wood; charcoal (including shell or nut charcoal), whether or not agglomerated",3548,charcoal
+526,954,"Wood; in the rough, whether or not stripped of bark or sapwood, or roughly squared; treated with paint, stains, creosote or other preservatives",504,creosote
+527,955,"Wood; coniferous, in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated",40415,sap
+528,956,"Wood; dark red meranti, light red meranti, meranti bakau; in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated",40447,sapwood
+529,957,"Wood, tropical; (as specified in subheading note 1, chapter 44, customs tariff), n.e.s. in item no. 4403.41, in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated",43593,bark
+530,959,"Wood; beech, in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated",19388,eec
+531,961,"Wood; coniferous, split poles, piles, pickets, stakes, pointed but not sawn lengthwise; sticks for umbrellas, tool handles etc, roughly trimmed but not turned or bent; chipwood etc, hoopwood",27756,length
+532,963,"Wood, coniferous; sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or finger-jointed, of a thickness exceeding 6mm",42528,thickness
+533,964,"Wood; meranti, lauan, seraya, alan, keruing, ramin, kapur, jelutong, teak, jongkong, merbau, kempas; sawn or chipped lengthwise, sliced or peeled, thicker than 6mm",7480,jelutong
+534,965,"Wood; okoume, obeche, sapelli, sipo, acajou d'afrique, makore, iroko, tiama, mansonia, ilomba, dibetou, limba, azobe; sawn or chipped lengthwise, sliced or peeled, thicker than 6mm",4002,iroko
+535,973,"Wood; maple (Acer spp.), sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, thicker than 6mm",39452,acer
+536,974,"Wood; cherry (Prunus spp.), sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, thicker than 6mm",39378,prunus
+537,975,"Wood; ash (Fraxinus spp.), sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, thicker than 6mm",14182,fraxinus
+538,977,"Wood; n.e.s. in heading no. 4408, sheets for veneer or plywood, other wood sawn lengthwise, sliced or peeled, whether or not planed, sanded or finger-jointed, not thicker than 6mm",38889,plywood
+539,978,"Wood; coniferous (including unassembled strips and friezes for parquet flooring), continuously shaped along any edge or face, whether or not planed, sanded or finger-jointed",12676,flooring
+540,979,"Wood; bamboo (including unassembled strips and friezes for parquet flooring), continuously shaped along any edges, ends or faces, whether or not planed, sanded or end-jointed",15366,rq
+541,980,"Wood; non-coniferous other than bamboo (including unassembled strips and friezes for parquet flooring), continuously shaped along any edges, ends or faces, whether or not planed, sanded or end-jointed",46789,face
+542,981,"Wood; particle board and similar board of wood, whether or not agglomerated with resins or other organic binding substances, waferboard, including oriented strand board",37432,oriente
+543,982,"Oriented strand board (OSB) of wood, whether or not agglomerated with resins or other organic binding substances",39911,resins
+544,984,"Particle board and similar board; of ligneous materials other than wood, whether or not agglomerated with resins or other organic binding substances",45300,materials
+545,985,"Medium density fibreboard (MDF), of a thickness not exceeding 5 mm",6531,density
+546,994,"Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, not containing an outer ply of non-coniferous or tropical wood (as specified in subheading note 1, chapter 44, customs tariff)",12288,tropical wood
+547,996,"Cork; natural cork, raw or simply prepared",5742,cork
+548,998,"Cork,  articles of natural cork other than corks and stoppers",11291,stoppers
+549,999,"Cork; blocks, plates, sheets and strip, tiles of any shape, solid cylinders (including discs), of agglomerated cork (with or without a binding substance)",11370,cylinders
+550,1001,"Wood pulp,  mechanical wood pulp",32625,mechanical pulp
+551,1002,"Wood pulp; chemical wood pulp, dissolving grades",6874,dissolving
+552,1003,"Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of coniferous wood",3636,soda pulp
+553,1004,"Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of non-coniferous wood",39586,pulp
+554,1007,"Wood pulp; chemical wood pulp, sulphite, (other than dissolving grades), unbleached, of coniferous wood",3639,sulphite pulp
+555,1011,"Wood pulp,  semi-chemical",3635,chemical pulp
+556,1012,"Pulp,  of fibres derived from recovered (waste and scrap) paper or paperboard",11931,fibres
+557,1014,"Pulp; of fibrous cellulosic material (other than wood or cotton linters pulp), mechanical",41498,lulo
+558,1016,"Paper or paperboard; waste and scrap, of unbleached kraft paper or paperboard or of corrugated paper or paperboard",37693,paper
+559,1017,"Paper or paperboard; waste and scrap, of paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass",32130,mass
+560,1018,"Paper or paperboard; waste and scrap, of paper or paperboard made mainly of mechanical pulp (eg newspapers, journals and similar printed matter)",17263,journals
+561,1019,"Paper or paperboard; waste and scrap, of paper or paperboard n.e.s. in heading no. 4707 and of unsorted waste and scrap",37702,paperboard
+562,1020,"Newsprint,  in rolls or sheets",36967,newsprint
+563,1029,"Kraft paper and paperboard; uncoated, weight between 150 and 225g/m2, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets",5919,fibre content
+564,1037,"Paper and paperboard; composite (made by sticking layers together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets",48694,layers
+565,1038,"Paper; copying and transfer paper (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls exceeding 36cm wide or rectangular sheets with a side exceeding 36cm",16979,ffs
+566,1043,"Paper and paperboard; tarred, bituminised or asphalted, in rolls or sheets, other than goods of heading no. 4803, 4809, 4810 or 4818",9897,asphalt
+567,1044,"Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.s. in chapter 48, in rolls or sheets",3138,cellulose
+568,1046,"Silk,  silk-worm cocoons suitable for reeling",21006,cocoons
+569,1047,"Silk,  raw silk (not thrown)",41154,silk
+570,1048,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garneted stock)",47133,toc
+571,1050,"Wool; (not carded or combed), greasy (including fleece-washed wool), shorn",44103,fleece
+572,1055,"Hair; fine animal hair, not carded or combed, of kashmir (cashmere) goats",5037,cashmere
+573,1056,"Hair; fine animal hair, not carded or combed, other than of kashmir (cashmere) goats",25178,kashmir
+574,1070,"Flax; raw or retted, but not spun",12540,flax
+575,1074,"Hemp (cannabis sativa L.); raw or retted, but not spun",1734,canna
+576,1075,"Hemp (cannabis sativa L.); processed (other than retted) (but not spun), true hemp tow and waste (including yarn waste and garnetted stock)",1761,cannabis
+577,1076,"Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",13941,nabis
+578,1077,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",20227,hemp
+579,1081,"Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",652,down
+580,1082,"Tools, hand; n.e.s. in heading no. 8201, of a kind used in agriculture, horticulture or forestry",6185,agriculture
+581,1083,"Harrows; (excluding disc), scarifiers, cultivators, weeders and hoes",3704,weeders
+582,1084,"Seeders, planters and transplanters",8929,planters
+583,1085,"Spreaders and distributors; for manure and fertilizers, for agricultural, horticultural or forestry use",11739,fertilizer distributors
+584,1086,"Rollers,  for lawns or sports-grounds",1506,law
+585,1087,"Machinery,  parts of machinery for soil preparation or cultivation or for rollers for lawns or sports-grounds",6160,cultivation
+586,1088,"Mowers,  n.e.s. in item no. 8433.1 (including cutter bars for tractor mounting)",8821,cutter bars
+587,1089,Haymaking machinery,5493,haymaking
+588,1090,"Balers; straw or fodder balers, including pick-up balers",20657,fodder
+589,1091,Combine harvester-threshers,42546,threshers
+590,1092,"Threshing machinery,  other than combine harvester-threshers",9270,machinery
+591,1093,"Harvesting machinery,  for roots or tubers",19605,harvesting
+592,1095,"Machines; for cleaning, sorting or grading eggs, fruit or other agricultural produce",5159,cleaning
+593,1096,"Harvesting machinery; parts, including parts of threshing machinery, straw or fodder balers and grass or hay mowers",35710,mowers
+594,1097,Milking machines,34322,milking
+595,1099,"Milking machines and dairy machinery,  parts thereof",34333,milking machines
+596,1100,"Machinery,  for preparing animal feeding stuffs",11475,animal feed
+597,1101,"Poultry-keeping machinery,  other than incubators and brooders",8850,incubators
+598,1102,"Machinery; for agricultural, horticultural or forestry use and n.e.s. in heading no. 8436",13780,forestry
+599,1103,"Machinery,  parts of poultry-keeping machinery or poultry incubators and brooders",8868,brooders
+600,1104,"Machinery; parts of that machinery for agricultural, horticultural or forestry use n.e.s. in heading no. 8436",39936,rest
+601,1105,"Machines; for cleaning, sorting or grading seed, grain or dried leguminous vegetables",17755,grading
+602,1106,"Machinery; for use in the milling industry or for the working of cereals or dried leguminous vegetables, other than farm-type machinery",22954,industry
+603,1107,"Machines; parts of those for cleaning, sorting or grading seed, grain or dried leguminous vegetables or for milling or working cereals or dried leguminous vegetables (not farm-type machinery)",35988,arts
+604,1108,"Tractors,  track-laying",9005,track laying tractors
+605,1109,"Tractors,  nes in heading no 8701 (other than tractors of heading no 8709)",42725,tractors
+606,1112,Fowls spec.gallus domestic.w<=185g pure-bred breeding,3731,domestic fowl
+607,1116,"Shrimp of cold water (pandalus spp.), whole, frozen",37649,pandalus
+608,1117,"Integral milk, powder, etc.fat cont>1, 5%, conc.added sugar",6992,milk powder
+609,1118,Butter,1286,butter oil
+610,1120,"Fresh (unripened or uncured) cheese, muzzarella type",44366,fresh cheese
+611,1121,"Other fresh cheese (unripened or uncured), incl.curd, etc",43388,urd
+612,1129,"Fresh, etc.bladders and stomach of anim.exc.fish",45535,bladder
+613,1131,Orchids cuttings and slips,37384,orchids
+614,1132,Other cuttings and slips of ornamental plants,40090,rna
+615,1149,Malting barley,1643,malting
+616,1167,"Peanuts shelled, whether or not broken",1150,peanuts
+617,1169,"Low erucic acid rape seeds, for sowing",9591,erucic acid
+618,1173,"Sunflower seeds, for sowing",43137,sun
+619,1177,"Other sesamum seeds, whether or not broken",40797,sesamum
+620,1185,"Oregano, fresh or dried forperfumery, medicine, etc.",18612,oregano
+621,1186,"Oth.plants/part, fresh/dried, forperfumery, medicine, etc",32756,medicine
+622,1187,Stevia rebaudiana,7986,stevia
+623,2646,Lac,0,leveillula lactucae-serriolae
+624,1190,"Other gums,  resins,  gum-resins,  oleoresins,  natural",37315,oleoresins
+625,1191,"Juices and extracts, of seed of pomelo (""grapefruit"")",14646,fruit juices
+626,1192,Juices and extracts of ginkgo biloba dried,1071,ginkgo
+627,1195,"Juices and extracts, of silymarin",19627,silymarin
+628,1196,Juice/extracts of pyrethrum/the root of plant containing rotenone,40169,rotenone
+629,1199,Other cotton linters,5817,lint (cotton)
+630,1200,"Beef tallow, crude",44389,beef
+631,1208,"Olive oil, refined",8733,olive oil
+632,1216,"Palm kernel oil, crude",8432,oil palm
+633,1218,Other babassu oil,40685,babassu oil
+634,1221,"Maize (corn) oil, refined, in container with capacity<=5l",12343,maize oil
+635,1228,"Rooster/chicken, uncooked, meat > 57% weight",7197,chicken meat
+636,1231,"Prepared preserved, of sardines, whole or in pieces",40474,sardines
+637,1236,Chemically pure glucose,16384,glucose
+638,1243,"Chewing gums, without cocoa, whether or n/sugar-coated",18941,gums
+639,1245,"Chocolates, caramels, sweets, tablets, not containing cocoa",11308,caramel
+640,1246,"Oth.products sugar confectionery, no cocoa",5571,confectionery
+641,1251,"Modified milk, preparations for infant use",2766,nfa
+642,1262,Mashed banana (Musa spp.),36032,musa
+643,1272,"Peach juice with Brix value not less than 60, with added sugar and other sweeteners or not",39692,sweeteners
+644,1273,Passion fruit juice (Passiflora edulis) with added sugar and other sweeteners or not,12693,flora
+645,1279,"Leveduras vivas ""saccharomyces boulardii""",40297,saccharomyces
+646,1288,"Mayonnaise immediate packings, weighing<= 1kg",1696,mayonnaise
+647,1291,"Other condiments and mixed seasonings, composed",3067,seas
+648,1299,Other preparations for elaboration of drinks,26271,labor
+649,1303,"Chewing gum, without sugar",3720,chewing gum
+650,1304,"Caramels, sweets, tablets and similar prod., ithout sugar",42096,sweets
+651,1306,"Wine of fresh grapes, ""champagne"" type",1660,amp
+652,1307,Other wine of fresh grapes and sparkling,44670,apes
+653,1308,Grape must,11517,grape must
+654,1309,Cider,4591,ciders
+655,1310,Oth.ferm.beverages and mixtures of ferm.beverages,44736,beverages
+656,1311,"Ethyl alcohol, not undenatured, water content<=1%",15920,alcohol content
+657,1312,"Other ethyl alcohol, not undenatured",798,ethyl alcohol
+658,1313,Ethyl alcohol with water content <= 1% volume,43798,volume
+659,1318,"Flours, meals and pellets, of meat, unfit forhuman consump.",2767,nfi
+660,1327,"Complete/composed foods, for animals",13476,foods
+661,1328,"Preparations containing xylanase and betagluconase, with support of wheat flour",44687,beta
+662,1329,Other preparations for animal feeding,28139,animal feeding
+663,1330,"Unman.tobac.n/stem./stripped, leaves, wit.drying, unfer",7234,drying
+664,1331,"Unman.wrapper tobacco n/stemmed, n/stripped, leaves, etc",27566,leaves
+665,1338,Sulphuric acid,42121,sulphuric acid
+666,1339,Phosphoric acid with tenor of iron<750 ppm,24103,iron
+667,4694,Hexachlorobenzene,14816,hcb (hexachlorobenzene)
+668,1345,Lecithins and other phosphoaminolipids,27599,lecithins
+669,1346,Diuron,14776,diuron
+670,1348,Aspartam,7504,aspartame
+671,1349,Other thiocarbamates,1977,thiocarbamates
+672,1350,Ziram and sodium dimethyldithiocarbamate,40883,ziram
+673,1351,Zinc diethyldithiocarbamate,6682,diet
+674,1352,Zinc dibutyldithiocarbamate,44269,zinc
+675,1355,Quercetin,19880,quercetin
+676,1359,"Other phenylbutazone, its salts",2245,phenylbutazone
+677,1365,Oth.heterocyclic comp.w/fluorine and/or br.coval.bond.,12851,fluorine
+678,1366,Picloram,14913,picloram
+679,1367,Chlorpyrifos,14735,chlorpyrifos
+680,1370,(2-methyl-3-chloroaniline)nicotinic acid/lysine salts,30340,lysine
+681,1373,Mazetapir (rs)-5-ethyl-2-(4-isopropyl-4-methyl-5-etc.,7737,tapir
+682,1381,Isoniazid,1395,isoniazid
+683,1386,"Enrofloxacin, piperazine salts",38445,piper
+684,1387,Fluorouracil,12871,fluorouracil
+685,1389,Diazinon,14751,diazinon
+686,1391,6-mercaptopurine,43425,urine
+687,1393,Trimethoprim,42906,trimethoprim
+688,1401,Atrazine,14671,atrazine
+689,1402,Simazine,14938,simazine
+690,1403,Cyanazine,14742,cyanazine
+691,1404,Oth.heteroc.comp.triazine ring with chlorine coval.bond,3955,chlorine
+692,1405,"N, n, n-trihydroxyethylhexahydrotriazine",28319,lh
+693,1406,Metribuzin,14862,metribuzin
+694,1408,Ametryn,14660,ametryn
+695,1412,"2, 2'-dithiobis(benzothiazole)(benzothiazole disulphide)",18487,disul
+696,1416,2-(4-morpholinylthio)benzothiaz.(n-oxydiethyleneben.etc,9934,ethylene
+697,1419,Oth.heterocyclic compounds with benzothiazole ring,20428,heterocyclic compounds
+698,1423,"Sodium nitrate, natural, containing nitrogen<=16.3%",41328,sodium
+699,1430,"Other mineral or chemical fertilisers, potassic",11765,fertilisers
+700,1431,Diammonium hydrogenorthophosphate arsenic>=6mg/kg,39418,arsenic
+701,1438,"Essential oil, of japanese mint (mentha arvensis)",25210,japan
+702,1439,"Essential oil,  of ""mentha spearmint""(mentha viridis l)",33268,mentha
+703,1443,"Essential oil, of guaiacum (bulnesia sarmientoi)",17484,sar
+704,1445,"Essential oil, of palmarosa",40154,rosa
+705,1448,"Essential oil, of eucalyptus",9998,eucalyptus
+706,1449,"Other essential oils, of lavender",27408,lavender
+707,1451,Other essential oils,9797,essential oils
+708,1457,Other caseinates and other casein derivatives,2488,caseinates
+709,1466,Insecticide based on acephate presented in another way,14653,acephate
+710,1467,"Insecticide based on cypermethrins/permethrin, other way",14746,cypermethrin
+711,1468,"Insecticide based on aluminium phosphide, presented in another way",15172,aluminium
+712,1469,"Insecticide based on trichlorfon or dichlorvos, presented in another way",14758,dichlorvos
+713,1472,"Fungicide based on copper hydroxide,  etc, presented in anhoter way",5689,copper
+714,1474,"Fungicide based on mancozeb or maneb, presented in another way",14843,mancozeb
+715,1475,"Fungicide based on chromium, arsenic, copper compounds, presented in another way",4198,chromium
+716,1476,"Fungicide based on thiram, presented in another way",14964,thiram
+717,1477,"Fungicide based on propiconazole, presented in another way",21327,propiconazole
+718,1479,"Herbicide based on 2, 4-dichlorophenoxiacetic, etc",608,dichlorophen
+719,6527,"Herbicide based on atrazine, alachlor, diuron or ametrine",5083,alachlor
+720,6528,"Herbicide based on glyphosate/its salts, imazaquin, etc",8180,glyphosate
+721,6529,"Herbicide based on paraquat dichloride, propanil, etc",14896,paraquat
+722,1485,"Other herbicides, presented in another way",20308,herbicides
+723,1487,Regulators for plant growth bases on hydrazide,18440,growth
+724,1493,Creped natural rubber,40187,natural rubber
+725,1498,"Whole leathers/skin of bovine, not split, w<=16kg",27543,leather
+726,1499,"Oth.leathers bovines, incl.buffalos, wet split(than grain",639,bovines
+727,1510,"Other sawdust and waste, of wood",40490,sawdust
+728,1514,"Other tropical wood, sawn/cut in sheets etc.thick.>6mm",18496,pica
+729,1517,"Curupay wood, sawn/cut in sheets, etc, thick.>6mm",39856,pay
+730,1520,"Sheets for veneering, etc, of other wood",43555,veneer sheets
+731,1526,"Other wood boards, cover. sup. with laminates, sheet of plastic",11424,laminates
+732,1527,"Fibreboards of wood, not mechanically worked t>5mm, t<9mm",11917,fibreboards
+733,1528,"Fibreboards of wood 5mm<thickness<9mm, coverd by protecting film",43185,otec
+734,1569,Other machinery for threshing,42549,threshing
+735,1571,"Machines for cleaning, sorting or grading eggs, c>=36000/hour",17756,sorting
+736,1575,Machinery for processing milk,6385,milk processing
+737,1577,Machinery for trituration or grinding of grains,3537,trituration
+738,1578,"Oth.machinery f/grinding industry, treatm.of cereals, etc",30451,machinery industry
+739,1580,"Wood in the rough, even peeled, or roughly squared, treated with paint, creosote or other preservatives, coniferous",37609,pain
+740,1581,"Wood in the rough, even peeled, or roughly squared, treated with paint, creosote or other preservatives, non-coniferous",39169,preservatives
+741,1582,"Wood in the rough, even peeled, or roughly squared, pine (Pinus spp.), the largest cross-sectional dimension is equal or greater than 15 cm",38373,pinus
+742,1584,"Wood in the rough, even peeled, or roughly squared, (Abies spp.) and spruce (Picea spp.), the largest cross-sectional dimension is equal or greater than 15 cm",422,abies
+743,1585,"Wood in the rough of (Abies spp.) and (Picea spp.) even peeled, or roughly squared, (Abies spp.) and (Picea spp.)",38278,picea
+744,1588,"Wood in the rough, whether or not stripped of bark or roughly squared, of beech (Fagus spp.), Of which the greatest cross-sectional dimension is 15 cm or more",10878,fagus
+745,1589,"Wood in the rough, whether or not stripped of bark or roughly squared, of beech (Fagus spp.), other",10877,beech (fagus)
+746,1590,"Wood in the rough, whether or not stripped of bark or sapwood, of bétula (Betula spp.), with the larger cross-sectional dimension of 15 cm or more",44709,betula
+747,1592,"Wood in the rough, whether or not stripped of bark or sapwood, of choupo (álamo) (Populus spp.)",39044,populus
+748,1594,"Railway or tramway sleepers  mad of wood, not impregnated, of coniferous",3190,sleepers
+749,1595,"Railway or tramway sleepers  mad of wood, not impregnated, of non-coniferous",41259,sleep
+750,1599,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm, of abeto (Abies spp.) and of espruce (Picea spp.)",38279,spruce
+751,1601,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm, of canafístula (Peltophorum vogelianum)",46088,peltophorum
+752,1602,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm, of cabreúva Parda (Myrocarpus spp.)",45638,carpus
+753,1606,"Made-up tropical wood (with earspots, grooves, fillets, notches, beaded, beaded, beaded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed",21871,pots
+754,1607,"Others, with, at least, a outer layer of non-coniferous wood, from spp. Alnus, Fraxinus, Fagus Betula, Prunus, Castanea, Ulmus",12539,alnus
+755,1610,"Other machines for boring, numerically controlled",786,erica
+756,1612,"Machines for grinding flat surfaces, numerically controlled",34375,grinding
+757,1616,Machining centers (manufacturing),45326,manufacturing
+758,1617,Mandarins (including tangerines and satsumas),31303,mandarins
+759,1618,Clementines,42623,tines
+760,1619,Other citrus hybrids,21554,hybrids
+761,1620,Ephedra,9103,ephedra
+762,1621,"Shark fins, prepared and preserved",4136,fins
+763,1624,Wines in containers holding no more than 5 liters,44051,wines
+764,1633,Sulfur monochloride,42114,sulfur
+765,1638,Oxychlorides,3951,chlorides
+766,1639,"Swordfish, marlins, Istiophoridae, fresh or chilled",13813,phoridae
+767,1641,"Pargo (Lutjanus purpureus), fresh or chilled",30151,lutjanus
+768,1642,"Livers and male gonads, fresh or chilled",18827,gonads
+769,1644,"Heads, tails, nataroy bladders and other edible fish products",9948,edible fish
+770,1645,"Swordfish, marlins, Istiophoridae, frozen",30283,istiophoridae
+771,1650,"Black Hake heads (Dissostichus eleginoides), frozen",29468,dissostichus eleginoides
+772,1651,"Hake heads Antarctic (Dissostichus mawsoni), frozen",21044,arctic
+773,1652,"Other edible fish byproducts, frozen",1333,byproducts
+774,1657,"Blue shark filets (Prionace glauca), frozen",22660,prionace glauca
+775,1661,"Fillets of Ling (Molva molva) and zarbo (Brosme brosme), dried, salted or in brine, but not smoked",26482,brosme brosme
+776,1664,"Boreogadus saida, Pollachius virens, Molva molva, Molva dypterygia, Brosme brosme, Urophycis blennoides and Melanogrammus aeglefinus, dried, even salted, but not smoked",501,boreogadus
+777,1668,"Lobsters (Palinurus spp., Panulirus spp., Jasus spp.), live, fresh or chilled",25251,jasus
+778,1671,"Norwegian lobster (Nephrops) (Nephrops norvegicus), live, fresh or chilled",14175,nephrops
+779,1672,"Cold water shrimps (Pandalus spp., Crangon crangon), live, fresh or chilled",32384,crangon crangon
+780,1674,"Freshwater lobster (Cherax quadricarinatus), live, fresh or chilled",3715,cherax
+781,1676,"Lobsters (Palinurus spp., Panulirus spp., Jasus spp.)",29504,lobsters
+782,1678,Crabs,5850,spider crabs
+783,1679,Norwegian lobster (Nephrops norvegicus),36895,nephrops norvegicus
+784,1680,Shrimp,17849,freshwater prawns and shrimps
+785,1681,Freshwater lobster (Cherax quadricarinatus),14380,freshwater
+786,1688,Fresh/chilled/frozen frogs' legs,1521,legs
+787,1689,"Meat of primates, fresh/chilled/frozen",39185,primates
+788,1696,"Bacon pork, fresh, chilled or frozen",39054,pork
+789,1700,"Fresh/chilled hakes, exc.fish filets oth.fish meat, etc",19334,hakes
+790,1702,Fresh/chilled sailfishes,12331,fishes
+791,1704,Fresh/chilled wreckfish,40612,wreckfish
+792,1706,Fresh/chilled sturgeons,42038,sturgeons
+793,1707,Fresh/chilled silversides,41140,sides
+794,1709,"Fresh/chilled shad, exc.fish filets oth.fish meat, etc",41074,shad
+795,1710,"Fresh/chilled tilapia spp.exc.fish filets, oth.fish meat",42248,pia
+796,1711,"Fresh/chilled surubins, exc.fish filets oth.fish meat,",6733,ubi
+797,1714,"Other commodities mentioned in Note of subheading 1 of htis Chapter, presented in forms or packings exclusively for direct use in sanitary applications",4589,cations
+798,1715,"Commodities based on methamidophos (ISO) or monocrotophos (ISO), presented otherwise",14851,methamidophos
+799,1716,"Commodities based on endosulfan (ISO), presented otherwise",14779,endosulfan
+800,1717,"Commodities based on alachlor (ISO), presented otherwise",44457,commodities
+801,1718,"Commodities based on other substances, presented otherwise",44457,commodities
+802,1720,"Maduramicin ammonium in alcoholic solution, from the manufacture of maduramicin",30679,madura
+803,1721,Other intermediate products for the manufacture of antibiotics or of vitamins or other products of Heading 29.36,3661,vitamin e
+804,1723,"Preparations containing stearoyl benzoyl methane and palmitoyl benzoylmethane, preparations containing caprylate and caprate of propylene glycol",20444,capra
+805,1724,Preparations containing triglycerides of caprylic and capric acids,16441,glycerides
+806,1725,"Esters of fatty alcohols of C12 to C20 of methacrylic acid and mixtures thereof, esters of monocarboxylic C10 branched with glycerol",16450,glycerol
+807,1726,"Mixtures of dimethyl esters of adipic, succinic and glutaric acid, Mixtures of dibasic acids C11 and C12, naphthenic acids, their water-insoluble salts and esters",22164,iba
+808,1728,"Mixtures and preparations of a kind used for the manufacture of paints and varnishes (including enamels, lacquers and distempers), containing isocyanates of hexamethylene or other isocyanates",10164,distemper
+809,1729,"Mixtures and preparations of a kind used for the manufacture of paints and varnishes (including enamels, lacquers and distempers), which contain fatty amines from C8 to C22",18665,amines
+810,1730,"Mixtures and preparations of a kind used for the manufacture of paints and varnishes (including enamels, lacquers and distempers), containing polyethyleneamines and diethylenetriamines, suitable for latex coagulation",5316,coagulation
+811,1731,Other mixtures containing polyethyleneamines,11562,polyethylene
+812,1732,"Mixtures of mono-, di- and triisopropanolamine",11578,propanol
+813,1733,Crosslinkers for silicones,11613,silicones
+814,1734,"Other mixtures and preparations of a kind used for the manufacture of paints and varnishes (including enamels, lacquers and distempers)",43509,varnishes
+815,1736,Eutectic mixture of diphenyl and diphenyl oxide,45404,diphenyl
+816,1738,"Other distilling, anticorrosive or anti-oxidising mixtures and preparations, Fluids for heat transfer",12828,fluids
+817,1739,Defoamers containing tributyl phosphate in isopropyl alcohol solution,273,mers
+818,1743,"Goods specified in Note of Subheadings 2 of this Chapter, packed in packages with a net weight content greater than 300 g but not exceeding 7.5 kg, based on alpha-cypermethrin (ISO)",14902,permethrin
+819,1747,"Mixtures of oligomers of 2,2,4-trimethyl-1,2-diidroquinolina (TMQ)",44315,"2,4-d"
+820,1748,"Antioxidants preparations and other compounds stabilizers, for rubber, containing derivatives N-substituted of p-phenylenediamine",8234,oxidants
+821,1749,"Antioxidants preparations and other compounds stabilizers, for rubber, containing alkyl phosphate, of aryl or alkyl-aryl",36852,antioxidants
+822,1750,"Antioxidants preparations and other compounds stabilizers, for rubber",41806,stabilizers
+823,1752,Other anti-oxidising preparations and other compound stabilizers for rubber or plastics,38598,plastics
+824,1753,"Goods containing aldrin, camphechlor, chlordane, chlordecone, DDT, 1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane), dieldrin, endosulfan, endrin, heptachlor or mirex (ISO)",14702,camphechlor
+825,1754,"Goods containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, DCI)",14817,hch
+826,1755,"Other alkaloids, natural or produced by synthesis, and their salts, esters and other derivatives",10087,alkaloids
+827,1756,Diagnostic kits to detect malaria,15463,alaria
+828,1757,Antiophidic and other anti poisons,41537,sons
+829,1758,Antitetanus,37040,anus
+830,1761,Antidiphtherial,9516,eria
+831,1764,Anti-Rh immunoglobulin,43355,uno
+832,1765,Other serum immunoglobulins,16320,globulins
+833,1767,"Serum albumin, in gel form, for preparing diagnostic reagents",35973,agents
+834,1768,"Other fractions of blood, except those prepared as medicines",7105,medicines
+835,3309,Plasmin (fibrinolysin),881,fibrinolysin
+836,3310,Urokinase,10821,urokinase
+837,1772,"Immunoglobulin and histamine chloridrate, associated",20795,histamine
+838,1776,"Immunological products, unmixed, not in measured doses or put up for retail sale",16603,measure
+839,1777,"Monoclonal antibodies in buffer solution containing bovine albumin, not in measured doses or put up for retail sale",35359,antibodies
+840,1778,"Other immunological products, mixed, not in measured doses or put up for retail sale",16788,logic
+841,1780,"Basiliximab (DCI), bevacizumab (DCI), daclizumab (DCI), etanercept (DCI), gemtuzumab ozogamicin (DCI), oprelvekin (DCI), rituximab (DCI), trastuzumab (DCI)",45208,basil
+842,1782,"Other anti serums, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes",2574,processes
+843,1783,"Medications containing ephedrine or its salts, for therapeutic or prophylactic uses, not in measured doses or put up for retail sale",6672,ephedrine
+844,1786,"Phosphide, chemically defined or not, aluminum",15173,aluminum
+845,1787,"Phosphide, chemically defined or not, magnesium",30711,magnesium
+846,1794,"Other halogenated derivatives of hydrocarbons cyclanes, cyclenes or cycle terpheniques",19374,halogenated hydrocarbons
+847,1795,Pentachlorobenzene (ISO),44586,benzene
+848,1796,Hexabromobiphenyl,45403,biphenyl
+849,1799,Perfluorooctane sulphonate of lithium,29218,lithium
+850,4894,Trichloronitromethane (chloropicrin),33757,methane
+851,1807,"4-chloro-alpha,alpha,alpha-trifluoro-3,5-dinitrotoluene",307,trot
+852,1813,P-toluenesulfonyl chloride (tosyl chloride),42659,toluene
+853,1815,"Other derivatives sulphonated, nitrated or nitrosated of hydrocarbons, whether or not halogenated",21688,hydrocarbons
+854,1816,Endrin (ISO),14780,endrin
+855,1818,Chlordecone (ISO),14725,chlordecone
+856,1848,"Projectors, capable of being directly connected to an automatic data processing machine of Heading 8471 and designed for use with this machine",6585,design
+857,1850,Other tractors with an engine power not exceeding 18 kW,8846,power
+858,1853,"Tractors specially designed to drag logs (log skidders), with an engine power exceeding 75 kW, but not exceeding 130 kW",8419,skidders
+859,1855,"Tractors specially designed to drag logs (log skidders), with engines of more than 130 Kw",35618,engines
+860,1857,"Vehicles for the transport of ten or more persons, including the driver, equipped for propulsion simultaneously with a compression-ignition internal combustion piston engine (diesel or semi-diesel) and an electric motor",5495,combustion
+861,1858,"Vehicles for the transport of ten or more persons, including the driver, equipped for propulsion simultaneously with a reciprocating piston engine spark ignition and an electric motor",35913,person
+862,1860,"Other motor vehicles for the transport of ten or more persons, including the driver, only with electric motor for propulsion",41747,sport
+863,1861,"Other motor vehicles for the transport of ten or more persons, including the driver",42778,transport
+864,1862,"Other vehicles, equipped for propulsion simultaneously with a reciprocating piston engine spark ignition (spark) and an electric motor, except those likely to be charged by connecting to an external power source",43551,vehicles
+865,1864,"Other vehicles, equipped for propulsion simultaneously with a reciprocating piston engine spark ignition and an electric motor, capable of being loaded by connection to an external source of electricity",8463,electricity
+866,1867,"Other warp knit fabrics (including those made on galloon knitting machines), other than those of headings 6001 to 6004, printed",22337,war
+867,1869,"Tiles and plates (slabs), for paving or coating, other than those of subheadings 6907.30 and 6907.40, with a coefficient of water absorption, by weight, not exceeding 0.5%",5346,coating
+868,1870,"Tiles and plates (slabs), for paving or coating, other than those of subheadings 6907.30 and 6907.40, with a coefficient of water absorption, by weight, exceeding 0.5% but not more than 10%",10131,absorption
+869,1871,"Tiles and plates (slabs), for paving or coating, other than those of subheadings 6907.30 and 6907.40, with a coefficient of water absorption, by weight, greater than 10%",41590,sorption
+870,1874,Portable sprayers for agriculture or horticulture,21180,horticulture
+871,1875,Other sprayers for agriculture or horticulture,41758,sprayers
+872,1876,Sprinklers and sprinkler irrigation systems for agriculture or horticulture,16913,systems
+873,1877,"Monitors with cathode ray tube, capable of being connected directly to an automatic data processing machine of Heading 8471 and designed for use with this machine, monochromatic",39209,processing
+874,1879,"Other monitors, capable of being connected directly to an automatic data processing machine of Heading 8471 and designed for use with this machine, monochromatic",37232,ochroma
+875,1895,"Marlin (istiophorus spp, tetrapturus spp, makaira spp)",30812,makaira
+876,1897,"Atlantic wreckfish(polyprion americanus),fresh or chil.",39001,polyprion
+877,1898,"Groupers (acanthistius spp.), fresh or chilled",18414,groupers
+878,1899,"Sturgeon (acipenser baeri), fresh or chilled",22121,acipenser baeri
+879,1900,"Sand smelt (atherina spp.), fresh or chilled",40393,sand
+880,1902,"Tilapias (tilapia,sarotherodon,danakilia), its hybrids",9765,sarotherodon
+881,1903,"Surubins (pseudoplatystoma spp.), fresh or chilled",45189,bins
+882,1906,"Tainhas (mugil spp.), fresh or chilled",35843,mugil
+883,1908,"Pescadas (cynocion spp.), fresh or chilled",21145,scad
+884,1910,"Jau (brachyplatystoma flavicans), fresh or chilled",1787,cans
+885,1912,"Vieiras (Scallops), including the North American one, and other mollusks of the genres Pecten, Chlamys or Placopecten, frozen",35008,mollusks
+886,1913,"Mussels (Mytilus spp., Perna spp.), frozen",36729,mytilus
+887,1915,"Squids (lulas), frozen",41777,squids
+888,1918,"Amêijoas, berbigões and arcas (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae), frozen",10907,families
+889,1919,"Estrombos (Strombus spp.), live, fresh or chilled",8120,strombus
+890,1920,"Abalones (Haliotis spp.), frozen",36278,abalones
+891,1925,"Stichopus japonicus, Holothuroidea, frozen",12242,holothuroidea
+892,1926,"Urchins from the sea (Strongylocentrotus spp., Paracentrotus lividus, Lox Echinus albums, Echinus esculentus), frozen",7824,echinus
+893,4191,"Theobromine and its derivatives, salts thereof",1008,bromine
+894,1928,"Pilocarpine, the nitrate and its chloridrate",2323,pilocarpine
+895,1929,Pilocarpine salts,22372,ilo
+896,1933,"Other newsprint paper, in rolls or sheets, of weight less than or equal to 57 g/m2, wherein 65% or more, by weight, of the total fiber content consists of wood fibers obtained by mechanical process",11930,fibers
+897,1934,"Other yarn, single, with a twist exceeding 50 turns per meter, polypropylene",7472,polypropylene
+898,1937,"Cables of artificial filament, made of viscose rayon",2814,rayon
+899,1939,"Synthetic staple fibers, carded, combed or otherwise processed for spinning, polypropylene",41716,spinning
+900,1940,"Felt tiles, the top surface area greater than 0.3 square meter, but not more than 1 square meter",16618,area
+901,1942,"Other warp knit fabrics (including those made on galloon knitting machines), other than those of headings 6001 to 6004, of synthetic fibers, unbleached or bleached",47353,fabrics
+902,1944,"Other warp knit fabrics (including those made on galloon knitting machines), other than those of headings 6001 to 6004, of yarns of different colors",5486,color
+903,1947,"Sodium lime, hydrofuge calcium carbonate",1444,calcium carbonate
+904,1948,"Preparations based on silica in colloidal suspension, boron nitride of cubic crystalline structure, compacted with tungsten carbide substrate",516,boron
+905,1949,"Preparations based on tungsten carbide (wolfram) with nickel as a binder, hydrogen bromide solution",36977,nickel
+906,1950,"Preparations based on nickel or cadmium hydroxide, cadmium oxide or ferric ferrous oxide, suitable for the manufacture of alkaline",1353,cadmium
+907,1951,"Preparations used in the preparation of culture media, ion exchangers for water treatment, preparations based on artificial zeolites",4167,zeolites
+908,1952,Absorbing compounds based on metals to improve the vacuum on tubes or electric valves,12122,metals
+909,1953,Foliar fertilizers containing zinc or manganese,31324,manganese
+910,1954,"Preparations of aluminum oxide and zirconium oxide, with a content of zirconium oxide equal or greater than 20%, by weight",4418,zirconium
+911,1957,"Halquinol, tetrachlorohydroglycine of aluminum and zirconium",9895,lycine
+912,6904,Sodium methylate in methanol,797,ethanol
+913,1960,"Fresh/chilled grey mullet, exc.fish filets, oth.fish meat",21411,mull
+914,1962,"Fresh/chilled weakfish, exc.fish filets oth.fish meat,",43922,weakfish
+915,1964,Tambaqui (colossoma macropomum),9462,colossoma
+916,1968,"Pacific salmon, frozen, except fillets, etc",37570,pacific salmon
+917,2552,"Saithes(polachius virens),lings e zarbos(brosme brosme)",40328,saithe
+918,1981,"Other frozen rock lobster, except whole",40106,rock
+919,1982,"Frozen shrimps ""krill""",26150,krill
+920,1989,"Krill (euphasia superba), frozen",40159,asia
+921,1992,"Fillets of catfish (ictalarus puntactus), frozen",40309,alar
+922,1999,Goods containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO),14818,hexachlor
+923,2003,Salinomycin mycelial,4639,salinomycin
+924,2004,"Intermediate products for the manufacture of antibiotics or vitamins or other products of Heading 2936, with a cyanocobalamin content not exceeding 55%, by weight",35249,antibiotics
+925,2005,"Intermediate products for the manufacture of antibiotics or of vitamins or other products of Heading 29.36, of the manufacture of primicine ammonium",43776,vitamins
+926,2012,"Other medicaments (excluding goods of Heading 30.02, 30.05 or 30.06) containing alkaloids or derivatives thereof, put up for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale",7104,medicaments
+927,2013,"Other drugs that contain active anti malaria principles, for therapeutic or prophylactic uses, not in measured doses or put up for retail sale",7103,drugs
+928,2025,"Other joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes, of bamboo",8439,carpentry
+929,2026,"Other joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes",8440,joinery
+930,2028,"Chopsticks (hashi or fachi), of bamboo",4109,chops
+931,2032,Other wood products,4644,wood products
+932,2046,"Other aminoalcohols, except those containing more than one kind of oxygen function, their ethers and esters, salts thereof",20388,ethers
+933,2053,Aldicarb,14657,aldicarb
+934,3200,Trichlorfon,14975,trichlorfon
+935,3201,Glufosinate ammonium,18822,glufosinate
+936,2092,"Other sulfonamides whose structure contains only heterocycle(s) heteroatomo (s), of nitrogen",10968,nitrogen cycle
+937,3014,Furosemide,1004,furosemide
+938,3018,Sulfamethoxazole,3348,sulfamethoxazole
+939,2098,Other sulfonamides whose structure contains other(s) heterocycle(s),18262,amides
+940,2099,Chloramine-B and chloramine-T,18165,ramin
+941,2106,Other sulfonamides,42109,sulfonamides
+942,3650,Cocaine and its salts,8708,cocaine
+943,2109,Esters and other derivatives of cocaine and ecgonine,45882,coca
+944,2110,"Levometthamphetamine, salts, esters and other derivatives",22637,amphetamine
+945,2114,"Other escopolamines and their derivatives, salts thereof",19960,scopolamine
+946,2116,"Sprinklers and irrigation systems for agriculture or horticulture, except by sprinkling",8815,sprinklers
+947,2118,"Sowers, for tillage",42602,tillage
+948,2119,"Planters and transplanters, tillage",9054,transplanters
+949,2122,Manure spreaders,9066,manure spreaders
+950,2126,"Other machine tools working by removing any material, by laser",9271,tools
+951,2133,"Meat of whales, etc, salted, dried, etc.",43982,whales
+952,2138,Aruana (osteoglossum bicirrhosum),24166,osteoglossum bicirrhosum
+953,2167,"Frozen croakers, exc.fish filets, oth.meats, livers, etc",5882,croakers
+954,2170,Frozen sailfishes,40322,sailfish
+955,2174,"Anchoita (engraulis anchoita), fresh or frozen",23718,engraulis anchoita
+956,2176,"Cod of atlantic, pacific, greenland, fresh or chilled",18263,greenland
+957,2177,"Other fish of families bregmacerotidae, gadidae, etc.",25999,cero
+958,2188,Frozen filets of patagonian toothfish,13863,gonia
+959,2194,"Filet/tilapia (oreochromis niloticus), frozen",19283,oreochromis niloticus
+960,2216,"Other frozen fishes,  except liver,  eggs,  semen",40745,semen
+961,2217,"Maneb, mancozeb, benzalkonium chloride",14842,maneb
+962,2218,Aqueous dispersion of polyurethane or microcapsules of melamine-formaldehyde containing a dye precursor in organic solvents,11565,polyurethane
+963,2221,"Copolymers of ethylene and alpha-olefin, density of less than 0.94",15544,polymers
+964,2222,"Polyethylene terephthalate, the viscosity index of 78 ml/g or more",3656,viscosity
+965,2224,"Poly (phenyl methylene isocyanate) (MDI crude, MDIC polymeric)",23550,soc
+966,2228,"New pneumatic tires, rubber, radial, for dumpers designed for off-highway use, with a section of a width equal or greater than 940 mm (37""), for rims of a diameter equal or greater than 1,448 mm (57"")",4421,diameter
+967,2229,"New pneumatic tires, of rubber, of a kind used in vehicles and machines for construction, mining and industrial maintenance, with a section with a width equal or superior than 1,143 mm (45""), for rim with a diameter eual or superior than 1,143 mm (45"")",19661,construction
+968,2230,"Other new pneumatic tires, of rubber, of a kind used in vehicles and machines for construction, mining and industrial maintenance",30789,maintenance
+969,2231,"Other new pneumatic tires, of rubber, with a section with a width equal or superior than 1,143 mm (45""), for rim with a diameter eual or superior than 1,143 mm (45"")",44004,width
+970,2232,"Other new pneumatic tires, of rubber",43287,tires
+971,2233,"Firewood in any form, coniferous",14796,firewood
+972,2248,"Fillets of blue shark (prionace glauca), frozen",39190,prionace
+973,2253,"Withing necklaces, fresh, chilled, frozen",36806,neck
+974,2259,"Foliage, branches of plants, dried, for bouquets, etc",7176,branches
+975,2260,Fresh foliage/branches/other part of plants forbouq.etc,11120,ranches
+976,2261,Dried foliage/branches/other part of plants for bouq.etc,21226,foliage
+977,2268,Leeks and other alliaceous vegetables for sowing,1520,leeks
+978,2275,Milk/cream fat content by weight<=1% n/concent.n/sug.,34244,milk fat
+979,2282,"Milk with content, by weight, of fat 6<fat<= 10%",28904,fat content
+980,2306,Ostriches (struthio camelus) for breeding,37492,ostriches
+981,2299,"Primate mammals, alive",31237,mamma
+982,2300,"Whales, dolphins and other live mammals",44522,ales
+983,2301,Live reptiles (incl.snakes and turtles),41283,snakes
+984,2302,Live birds of prey,39145,prey
+985,2303,"Live psittaciformes (incl.parrots, macaws, etc)",37773,parrots
+986,2306,Ostriches (struthio camelus) for breeding,45569,camelus
+987,2308,Fresh/chilled forequarters of bovine with bone in,39669,quarters
+988,2313,"Extractos y jugos, de tabaco",45044,gos
+989,2316,Table salt,9979,table salt
+990,2318,Unroasted iron pyrites,4160,pyrites
+991,2321,"Natural graphite, in powder or in flakes",31500,graphite
+992,2323,Silica sands and quartz sands,3161,silica
+993,2325,Quartz,21333,quartz
+994,2329,Kaolin,4522,kaolinite
+995,2330,"Other kaolinic clays, whether or not calcined",3927,clay
+996,2331,Other medicines containing active ingredients antimalarials (antimalarial),9937,ingredients
+997,2332,"Superphosphate, containing by weight 35% or more of P2O5",42132,superphosphate
+998,2334,"Photo masks on flat glass, positive, suitable for recording on silicon wafers (chips) for the manufacture of electronic microstructures",16275,glass
+999,2336,"DDT (ISO) (clofenotano (DCI)), packed in packages with a net weight content not exceeding 300 g",17822,ddt
+1000,2338,"Other cameras, fixed focus",48128,cameras
+1001,2339,"Other photographic cameras, adjustable focus, for obtaining negatives of 45 mm x 60 mm or higher dimensions",6722,dimensions
+1002,2341,Bamboo seats,40656,seats
+1003,12425,Bamboo furniture,14971,furniture
+1004,2345,"Greenhouses, wooden",1281,houses
+1005,2346,"Other prefabricated buildings, made of wood",1172,buildings
+1006,2347,"Greenhouses, except wooden",18249,greenhouses
+1007,2348,Prefabricated buildings with iron or steel structure and exterior walls consisting mainly of these materials,43813,walls
+1008,2350,"Monopods, beeps, tripods and similar articles",2374,pods
+1009,2353,"Other parts of hakes from antarctica, frozen",14547,arctica
+1010,2354,"Corvina (micropogonias furnieri), frozen",28380,micropogonias furnieri
+1011,2355,"Pescadas (cynoscion spp.), frozen",6278,cynoscion
+1012,2356,"Marlin (istiophorus, tetrapturus, makaira), frozen",42442,tetrapturus
+1013,2357,"Snapper (lutjanus purpureus), frozen",28129,lutjanus purpureus
+1014,2358,"Frog fish (lophius gastrophysus), frozen",29727,lophius
+1015,2362,"Sturgeon (acipenser), frozen",45545,acipenser
+1016,2363,"Sand smelt (atherina spp.), frozen",40583,atherina
+1017,2365,"Curimatas (prochilodus spp.), frozen",3781,chilo
+1018,2390,Flours/meals/pellets of fish for human consumption,47270,fish consumption
+1019,2396,Frozen grey mullet,35897,grey mullet
+1020,2398,Frozen silversides,41162,silver
+1021,2427,"Heads of hakes from antarctica, frozen",32931,antarctica
+1022,2440,Wastes of hair,43841,wastes
+1023,2443,Feathers of a kind used for stuffing and down,11254,feathers
+1024,2445,Ossein and bones treated with acid,433,bones
+1025,2447,Ivory powders and wastes,4866,ivory
+1026,2448,"Tortoise-shell, horns, nails, claws, etc",5134,claws
+1027,2450,Natural sponges of animal origin,4347,origin
+1028,2451,"Fresh pancreases of bovine, forprep.produc.pharmaceut.etc",37647,pancreas
+1029,2453,"Roes of fish, fecundated for reproduction",39232,production
+1030,2460,"Trees, shrubs and bushes, grafted, with edible fruit",9985,shrubs
+1031,2464,Coffee cuttings and slips of shrubs or trees,42800,trees
+1032,2469,"Safflower oil, in crude",8748,safflower oil
+1033,2471,"Babassu oil, crude",38088,crude oil
+1034,2472,"Other wild turnip oil, content tenor",28906,oil content
+1035,2473,"Rape, colza or mustard oil, refined",20692,mustard oil
+1036,2476,"Tung oil, crude",43238,tung oil
+1037,2496,"Grain sorghum, for sowing",41562,grain sorghum
+1038,2497,"Grain sorghum, except for sowing",41588,sorghum grain
+1039,2502,"Millet (Pennisetum glaucum),  for sowing",37934,pennisetum
+1040,2506,"Mile (digitaria spp.), for sowing",6712,digitaria
+1041,2514,Bentonite,3929,bentonite
+1042,2515,Decolourizing earths and fuller's earth,7615,earth
+1043,2522,Chalk,3486,chalk soils
+1044,2527,Natural barium sulphate (barytes),43568,barium
+1045,2541,"Frozen rossia macrosoma/squid (ommastrephes, loligo, etc)",20305,som
+1046,2542,Frozen sepia officinalis and sepiola,885,ficin
+1047,2543,"Salt./dried/brin.sepia offic.rossia macr.sepioloa, squid",40161,rossia
+1048,2544,"Cuttlefish and squid, in other ways",6222,cuttlefish
+1049,2561,"Aniseed, crushed or powdered",44632,aniseed
+1050,2564,Thyme and bay leaves,3463,thyme
+1051,2565,Curry,1545,curry beans
+1052,2580,"Apple juices, unfermented",44688,apple juice
+1053,2581,Mosses and lichens for bouquets or ornamental,1127,mosses
+1054,2585,"Other dried beans (adzuki), in grain",44408,adzuki beans
+1055,2589,"Bambara bean (vigna subterranea), for sowing",3887,vigna subterranea
+1056,2591,"Fradinho bean (vigna unguiculata), for sowing",43714,vigna unguiculata
+1057,2601,Fresh/dried mangoes,1648,mangoes
+1058,2602,Fresh/dried mangosteens,1649,mangosteen
+1059,2603,Fresh or dried lemons and sweet oranges,42183,sweet oranges
+1060,2606,Fresh nectarines,36827,nectarines
+1061,2608,"Guando bean (cajanus cajan), for sowing",1393,cajanus cajan
+1062,2609,"Guando bean (cajanus cajan), except for sowing",16938,cajanus
+1063,2612,Lupulin,32712,medicago lupulina
+1064,2616,"Mucilages products, thickeners, of guar seeds",15530,mucilages
+1065,2622,Kapok for stuffing or padding,5055,kapok
+1066,2627,Raw vegetable materials primarily for dyeing or tanning,42290,tanning
+1067,2638,"Fats and oils and their fractions, of marine mammals",6785,mammals (marine)
+1068,2641,Lanolin,11487,lanoline
+1069,2643,"Seaweeds, fresh/chilled/dried/frozen/powder",43943,weeds
+1070,2644,"Other algae, fresh, chilled, frozen or dried",8982,algae
+1071,2645,"Stones and almonds of apricots, peaches and plums",41950,stones
+1072,2646,Lac,7,cantharellaceae
+1073,2649,"Juices and extracts,  of papaya (""carica papaya""), dried",2127,carica
+1074,2657,"Other bee waxes, in crude",43917,waxes
+1075,2658,"Veget.waxes, ot.insect waxes/spermac.refin/colour.or not",41652,sperm
+1076,2660,"Extracts and juices of meat,  fish or crustaceans, etc.",12233,fish extracts
+1077,3971,Phenobarbital and its salts,2233,phenobarbital
+1078,3970,Pentobarbital and its salts,2124,pentobarbital
+1079,2687,Oestradiol hemisuccinate,1949,estradiol
+1080,2688,Oestradiol fenpropionate(oestradiol 17-(3-phenylpropion,39701,radio
+1081,2699,"Acorns of oak and chestnut-from-indian, foranimal cons.",7160,acorns
+1082,2704,Preparations with ractopamine hydrochloride =>2%,21717,pam
+1083,3499,Thebaine and its salts,296,theba
+1084,2749,"Cinchona alcaloids, their derivatives and salts",4638,cinchona
+1085,2750,Quinine and its salts,2715,quinine
+1086,2752,Caffeine,1385,caffeine
+1087,2757,"Acerola juice (Malpighia spp.), with added sugar and other sweeteners or not",31018,malpighia
+1088,2759,Purees of acai (Euterpe oleracea),18125,euterpe
+1089,2760,Purees acerola (Malpighia spp.),31029,acerola
+1090,2761,Mashed guava (Psidium guajava),25263,java
+1091,2762,Mashed of mango (Mangifera indica),31366,mangifera
+1092,2773,"Triisopropanolamine 2, 4-dichlorophenoxyacetate",37543,oxya
+1093,3821,7-aminodesacetoxycephalosporanic acid,37047,nodes
+1094,2998,Tetramisole,3443,tetramisole
+1095,2999,Levamisole and its salts,3851,miso
+1096,2789,Other aminoglycosides and its salts,16841,glycosides
+1097,2790,Spiramycin embonate (spiramycin pamoate),10811,spiramycin
+1098,2792,Nystatine and its salts,1929,nystatin
+1099,2793,Amphotericin b and its salts,20542,ricin
+1100,2795,Monensin sodium,4143,monensin
+1101,2798,Other polyethers and its salts,19701,polyethers
+1102,2799,Polymyxins and their salts,12533,polymyxin
+1103,2800,Colistin sulphate,21984,colistin
+1104,2801,Virginiamycins and their salts,3654,virginiamycin
+1105,2802,Other polypeptides and its salts,10883,polypeptides
+1106,2803,Griseofulvin and its salts,1144,griseofulvin
+1107,2804,Tiamulin fumarate,17579,tiamulin
+1108,2808,Other organic compounds,37389,organic compounds
+1109,2813,Heparin and its salts,16048,heparin
+1110,2885,Levodopa,6951,dopa
+1111,2831,Other derivatives and salts of tyrosine,2920,rosin
+1112,2837,Choline and its salts,4100,choline
+1113,2840,"Carbosulfan(dibutylaminothio)methylcarbamate of 2, etc.",19416,carbosulfan
+1114,2848,Iprodione,21034,iprodione
+1115,2852,2-metil-5-nitroimidazol,38851,dazo
+1116,2853,Metronidazole and its salts,1744,metronidazole
+1117,2874,Other oestrogens and progestogens,37273,estrogens
+1118,2875,Methylprednisolone and its derivatives,19499,prednisolone
+1119,2876,Hydrocortisone sodium 21-succinate,491,cortisone
+1120,2882,Oth.hormones corticossupra-renal and its derivatives,21104,hormones
+1121,2883,Epinephrine,9144,epinephrine
+1122,2887,Oth.and tyrosine oth.derivatives and its salts,43294,tyrosine
+1123,2895,"Medicament c/oth.estrogens/progestogenos, exc.in doses",37273,estrogens
+1124,2896,"Medicament containing levothyroxine sodium, exc.doses",42574,thyroxine
+1125,2907,Acetone cyanohydrin,43826,acetone
+1126,2910,Chlorothalonil,4056,chlorothalonil
+1127,2923,Oth.organic derivat.of hydrazine or of hydroxylamine,17864,hydroxylamine
+1128,2937,Terbacil,14948,terbacil
+1129,2939,Propythiouracil,42537,thiouracil
+1130,2948,"Prostaglandins, thromboxanes and leukotrienes",19433,leukotrienes
+1131,2952,"Other hormones, prostaglandins, etc.",39301,prostaglandins
+1132,3979,Insulin and its salts,23571,insulin
+1133,3996,Medroxyprogesterone and its derivatives,1705,medroxyprogesterone
+1134,2956,Pectic substances,37893,pectic substances
+1135,2958,Endosperm flour,8792,endosperm
+1136,2959,"Oth.mucilages prod.thickeners, derived from locust beans",8208,locus
+1137,2971,Crotonamide and its other derivatives,5910,croton
+1138,3332,Carisoprodol,41471,caris
+1139,2977,Hexanitrocarbanilides,6974,trocar
+1140,2978,"Carbanilides, its derivatives and salts",44625,anilides
+1141,2980,Salts of difenoxin or dipipanona,30268,anona
+1142,2999,Levamisole and its salts,20709,levamisole
+1143,3013,Oth.sulphonamides with heter.with nitrogen hetero-atom,42110,sulphonamides
+1144,3015,Phthalylsulfathiazole,20787,sulfathiazole
+1145,3030,Other estrogens and progestogens,39265,progestogens
+1146,3984,Oxytocin,4626,oxytocin
+1147,3037,"Oth.hormones, derivat.and steroids used hormones",41911,steroids
+1148,3038,Rutoside (rutin) and its derivatives,40281,rutin
+1149,3040,Stevioside,11629,stevioside
+1150,3041,"Oth.heterosides, its salts, ethers, esters and derivatives",16842,heterosides
+1151,3042,Hydrochloride and morphine sulphate,1801,morphine
+1152,3044,Heroine (diacetylmorphine) and its salts,4603,diacetyl
+1153,3054,"Medicament cont.enzymes n/cont.vitamins, e, exc.in doses",9087,enzymes
+1154,3058,"Medicament c/o-acetylsalicylic acid/etc, exc.in doses",44362,acetylsalicylic acid
+1155,3062,"Medicament cont.etretinate/miltefosine, etc, exc.in doses",2880,retina
+1156,3066,"Medicament c/clenbuterol/its hydrochloride, exc.in doses",19424,clenbuterol
+1157,3072,Thioglycolic acid and its salts,5451,colic
+1158,3074,"N, n-dialkyl-2-aminoethanothiols, their protonat.salts",42536,thiols
+1159,3077,Thiourea,42539,thiourea
+1160,3078,Thiophanate-methyl,14961,thiophanate
+1161,3085,Methomyl,14856,methomyl
+1162,3086,Carbocysteine,6313,cysteine
+1163,3101,Theophylline,4441,theophylline
+1164,3113,"Medicament c/oxfendazole/albendazole, etc.exc.in doses",20749,oxfendazole
+1165,3118,"Medicament c/cyclosporin, fluspirilene, etc.exc.in doses",20735,cyclosporin
+1166,3125,O-ethyl s-phenyl ethylphosphonothiolothionate (fonofos),14811,fonofos
+1167,3777,Dithiocarbonates (xanthates),2043,carbonates
+1168,3130,Organo-mercury compounds,33385,mercury
+1169,3131,Timerosal,42613,time
+1170,3132,Other organo-mercury compounds,46826,mercury compounds
+1171,3134,Other organo-silicon compounds,41151,silicon
+1172,3135,"Ethephon, (4, 4?-bis[(dimethoxyphosphonyl)methyl]diphenyl",4130,ethephon
+1173,3139,Glufosinate-ammonium,18823,glufosinate ammonium
+1174,3675,Other organo-inorganic compounds,23332,inorganic compounds
+1175,3206,Tetraoctilestanho,10162,tetrao
+1176,3494,Benomyl,14681,benomyl
+1177,3496,Albendazole and albendazole sulphoxide,21992,albendazole
+1178,3497,Mebendazole,1702,mebendazole
+1179,4099,Triadimenol,14968,triadimenol
+1180,4100,Triadimefon,14967,triadimefon
+1181,3237,Calcium bromolactobionate,34886,mola
+1182,3241,Maltitol,31076,maltitol
+1183,3244,Ampicillin and its salts,44576,ampicillin
+1184,3250,Penicillin g procaine,2515,procaine
+1185,3252,"Oth.penicillins, deriv.w/penicillanic acid struct.salts",37928,penicillins
+1186,3253,Streptomycins sulphates,42000,streptomycin
+1187,3256,Oxytetracycline,2029,oxytetracycline
+1188,3259,"Tetracyclines, other derivatives and salts",42427,tetracyclines
+1189,3273,Aminonaphtholsulphonic acids and their salts,18725,amino acids
+1190,3290,"Parts of pericardia, of bovine animals or of swine",6990,cardia
+1191,3294,Antiophidic serums and other sorums anti-poisonous,2930,rums
+1192,3299,Antiserum polyvalent,22403,antiserum
+1193,3300,"Oth.antiserum specific of animals/humans, immunized",31520,humans
+1194,7937,Serum albumin,3123,serum albumin
+1195,3306,Monoclonal antibodies in buffer solution containing bovine albumin,36475,bodies
+1196,3309,Plasmin (fibrinolysin),16257,plasmin
+1197,3313,Betaine and its salts,9892,betaine
+1198,3319,Other quaternary ammonium salts and hydroxides,19742,quaternary
+1199,3859,Acrylamide,11251,acrylamide
+1200,3342,Imidazole,15540,imidazoles
+1201,3343,Histidine and its salts,20804,histidine
+1202,3348,Pyridine,3349,sulfapyridine
+1203,4321,Thymidine,42564,thymidine
+1204,4322,Furazolidone,1002,furazolidone
+1205,4324,Oxadiazon,14886,oxadiazon
+1206,3387,"Vaccines anticatarrh and antipyogen, in doses",43468,vaccines
+1207,3389,"Veterinary vaccines, against rabies",39687,rabies
+1208,3390,"Veterinary vaccines, agaisnt coccidiosis",5357,coccidiosis
+1209,3391,"Veterinary vaccines, against keratoconjunctivitis",460,conjunctivitis
