@@ -1,20 +1,27 @@
 import pandas as pd
 
-import nltk
-from nltk.corpus import wordnet
-from nltk.stem.lancaster import LancasterStemmer
-from nltk.stem import WordNetLemmatizer
+#import nltk
+#from nltk.corpus import wordnet
+#from nltk.stem.lancaster import LancasterStemmer
+#from nltk.stem import WordNetLemmatizer
 
-import spacy
-from spacy.matcher import Matcher
+#import spacy
+#from spacy.matcher import Matcher
 
 from thefuzz import fuzz, process
-
+import sys
+sys.setrecursionlimit(10**6)
 
 # lists to create pandas dataframes
 matched_ids = []
 matched_names_ids = []
 def closest_matches(src1:list, src2:list, names_id_src1:dict, names_id_src2:dict):
+    s1_df = pd.DataFrame(src1)
+    s1_df.to_csv('remaininder_s1.csv')
+
+    s2_df = pd.DataFrame(src2)
+    s2_df.to_csv('remaininder_s2.csv')
+
     if len(src1) == 0:
         return matched_ids, matched_names_ids
     for item in src1:
@@ -48,19 +55,34 @@ def closest_matches(src1:list, src2:list, names_id_src1:dict, names_id_src2:dict
 df1 = pd.read_csv('source_1.csv')
 df2 = pd.read_csv('source_2.csv')
 
-#print(f'Shape of source_1 : {df1.shape}')
-#print(f'Shape of source_2 : {df2.shape}')
+df1 = df1[['id', 'name']].set_index('name')
+df1.index.name = None
+s1_dict = df1.to_dict()['id']
 
-# list of items to iterate over.
-# Will be modified in every iteration where a match is found
-src1 = df1.name.to_list()
-src2 = df2.name.to_list()
+df2 = df2[['id', 'name']].set_index('name')
+df2.index.name = None
+s2_dict = df2.to_dict()['id']
 
-# name(key), id(value) dictionaries
-src1_dict = df1.name.to_dict()
-src1_dict = dict([(value, key) for key, value in src1_dict.items()])
+df_old_matches = pd.read_csv('matched_names_ids.csv')
 
-src2_dict = df2.name.to_dict()
-src2_dict = dict([(value, key) for key, value in src2_dict.items()])
+df1_old = df_old_matches[['id1', 'source_1']].set_index('source_1')
+df1_old_dict = df1_old.to_dict()['id1']
 
-ids_matched, names_ids_matched = closest_matches(src1, src2, src1_dict, src2_dict)
+df2_old = df_old_matches[['id2', 'source_2']].set_index('source_2')
+df2_old_dict = df2_old.to_dict()['id2']
+
+s1 = []
+for entry in df1.index.to_list():
+    try:
+        df1_old_dict[entry]
+    except KeyError:
+        s1.append(entry)
+
+s2 = []
+for entry in df2.index.to_list():
+    try:
+        df2_old_dict[entry]
+    except KeyError:
+        s2.append(entry)
+
+ids_matched, names_ids_matched = closest_matches(s1, s2, s1_dict, s2_dict)
