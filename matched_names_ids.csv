@@ -1266,3 +1266,197 @@
 1264,3728,Aminoanthraquinones and their salts,34155,anthraquinones
 1265,3734,Glutamic acid,16414,glutamic acid
 1266,3740,Ethylenediamine tetraacetic acid (edta) and its salts,703,edta
+1267,3762,"Medicament c/nicotinamide acid, etc.exc.in doses",36990,nicotinamide
+1268,3763,"Medicament c/hydroxycobalamine, etc.exc.in doses",43762,cobalamin
+1269,3769,"Medicament containing streptokinases, exc.in doses",1449,kinases
+1270,3770,"Medicament containing l-asparaginase, exc.in doses",12128,ragi
+1271,3771,"Medicament containing deoxyribonuclease, exc.in doses",12364,deoxyribonuclease
+1272,3778,Eptc (thiocarbamate),14781,eptc
+1273,3779,Cartap,14720,cartap
+1274,3783,Monosulphides of tetramethylthiuram,14965,thiuram
+1275,3784,Sulfiram,44538,disulfiram
+1276,3785,Other monosulphides of thiuram,42108,sulphides
+1277,3790,"Dl-methionine, contain.>0.1%b/weight of sulphur ash",14784,ethion
+1278,3791,Other methionine,21375,ethionine
+1279,3795,Hexazinon,14825,hexazinone
+1280,3980,Acth (corticotrophin),44400,acth
+1281,3832,"Vaccines against hepatitis b, except in doses",1236,hepatitis
+1282,3834,"Vaccines against meningitis, except in doses",1719,meningitis
+1283,3851,Phosphamidon,14911,phosphamidon
+1284,3852,Monocrotophos,14867,monocrotophos
+1285,3859,Acrylamide,11555,polyacrylamide
+1286,3865,Dimeglumine gadopentate,21198,meglumine
+1287,3866,"Other compounds rare-earth metal, of yttrium, etc",47183,yttrium
+1288,3867,Hydrogen peroxide,21739,hydrogen peroxide
+1289,3868,Aluminium phosphide,48695,aluminium phosphide
+1290,3869,Magnesium phosphide,48595,magnesium phosphide
+1291,3871,"Other phosphides, whether or not chemically defined",47516,phosphides
+1292,3889,Oxyfluorfen,14895,oxyfluorfen
+1293,3892,Monomethyl ethers of ethylene glycol/diethylene glycol,21012,ethylene glycol
+1294,3897,Endosulfan,16405,endosulfan sulfate
+1295,3905,Sulphide of monoalkyldiethylene glycols(di or tri),1096,glycols
+1296,3908,Other esters silicates of inorganic acids,11612,silicates
+1297,3912,"Medicament containing actinomycins, exc.in doses",19568,actin
+1298,3914,"Medicament cont.polypeptides /oth.derivat., exc.in doses",37961,peptides
+1299,3915,"Medicament containing mitomycins, exc.in doses",20985,mitomycin
+1300,3919,Medicament with amphotericin b in liposome,44574,amphotericin
+1301,3923,Other l-arginine and its salts,38940,arginine
+1302,4042,Guanidine,10761,nitrosoguanidine
+1303,3941,Cyfluthrin,6253,cyfluthrin
+1304,3943,Deltamethrin,18484,deltamethrin
+1305,3944,Fenvalerate,14805,fenvalerate
+1306,3945,"Cyhalothrin (""cyhalothrin"")",19671,cyhalothrin
+1307,3951,"Oth.heterocyclic comp.with 1 quinoleine ring, etc",37313,olein
+1308,3981,Hgc (chorionic gonadotrophin),45807,chorion
+1309,3982,Pmsg (serum gonadotrophin),1796,msg
+1310,3977,"Oth.horm.of the wolf before of the hypophysis, etc deriv",38485,hypophysis
+1311,3982,Pmsg (serum gonadotrophin),4334,pmsg
+1312,3986,Cortisone,21235,hydrocortisone
+1313,3988,Prednisone (dehydrocortisone),2435,prednisone
+1314,3990,Dexamethasone and its acetates,9908,dexamethasone
+1315,3996,Medroxyprogesterone and its derivatives,39266,progesterone
+1316,4002,"Medicament c/pmsg (serum gonadotrophin), exc.in doses",5138,pms
+1317,4003,"Medicament c/somatostatin/its salts, exc.in doses",10073,somatostatin
+1318,4005,"Vitamin b12 (cyanocobalamin), unmixed",43763,cyanocobalamin
+1319,4029,Diflubenzuron,7229,diflubenzuron
+1320,4030,Metalaxyl,14849,metalaxyl
+1321,4031,Triflumuron,21165,triflumuron
+1322,4035,Saccharin and its salts,2957,saccharin
+1323,4042,Guanidine,15549,guanidines
+1324,4051,Chlordimeform,14726,chlordimeform
+1325,4074,"Vitamin c (l- or dl-ascorbic acid), unmixed",40076,ascorbic acid
+1326,4083,"Vitamin d3 (colecalciferol), unmixed",46297,calciferol
+1327,4085,"Vitamin h (biotin), unmixed",45385,biotin
+1328,4088,"Nicotinic acid, unmixed",1899,nicotinic acid
+1329,4095,Fenbendazole,44612,fenbendazole
+1330,4120,Formic acid,13911,formic acid
+1331,4125,Acetic acid,10572,acetic acid bacteria
+1332,4131,Cobalt acetates,5350,cobalt
+1333,4131,Cobalt acetates,42838,acetates
+1334,4138,Dinoseb acetate,14769,dinoseb
+1335,4141,Other glycerin acetate,16449,glycerin
+1336,4144,"Pumice stone, emery/other natural garnett",21332,pumice
+1337,4145,"Pumice stone, crude, in irregular pieces, includ.crushed",33872,mice
+1338,4147,"Emery, natural corundum, natural garnet/ot.nat.abrasives",47420,abrasives
+1339,4152,"Granite ecaussine and other calcareous monumental, etc.",16037,granite
+1340,4161,Red lead and orange lead,27477,lead
+1341,4163,Hydrazine and their inorganic salts,37387,organic salts
+1342,4167,Divanadium pentoxide,43501,vanadium
+1343,4168,Other vanadium oxides and hydroxides,21825,hydroxides
+1344,4172,Other copper oxides and hydroxides,46939,copper hydroxide
+1345,4174,Zirconium dioxide,37788,conium
+1346,4175,Molybdenum trioxide,35053,molybdenum
+1347,4177,Antimony trioxide,36825,antimony
+1348,4180,Tungsten trioxide (volframio),43239,tungsten
+1349,4182,"Oxide, hydroxides and peroxides of other metals, etc",38031,peroxides
+1350,4186,Halothane (bromochlorodifluoromethane),1197,halothane
+1351,4196,Galactose,15131,galactose
+1352,4197,Arabinose,37091,nose
+1353,4212,Natural borates and concen.thereof(calcined or not),19637,borates
+1354,4220,Bismuth chloride,45434,bismuth
+1355,4222,Caesium chloride,1376,caesium
+1356,4224,Strontium chloride,42019,strontium
+1357,4237,Bromides of sodium or of potassium,1003,bromides
+1358,4239,Iodides of sodium,23882,iodides
+1359,4265,Lindane,14839,lindane
+1360,4683,Aldrin,14826,aldrin
+1361,4684,Chlordane,14724,chlordane
+1362,4283,Mannitol oleate,31543,mannitol
+1363,4297,Bioresmethrin,14690,bioresmethrin
+1364,4301,Coumarin,5829,coumarins
+1365,4303,Coumaphos,14741,coumaphos
+1366,4317,Ivermectin,17868,ivermectin
+1367,4318,Abamectin,17867,abamectin
+1368,4316,Carbofuran,7638,carbofuran
+1369,4346,Maleic acid,30957,maleic acid
+1370,4351,Dibutyl orthophthalates,21307,phthalates
+1371,4360,Ilmenite (titanium ores),16270,titanium
+1372,4365,Niobiumtantalum or vanadium ores and concentrates,17253,mta
+1373,4370,Granulated slag from the manufacture of iron and steel,41868,steel
+1374,4372,Hard zinc spelter(containing mainly zinc),42954,spelt
+1375,4375,"Muds of gasoline containing lead, etc.",35824,mud
+1376,4384,Cromium sulphates,42106,sulphates
+1377,4392,Other nitrites,37010,nitrites
+1378,4398,Methylamine,20713,methylamines
+1379,4404,"Bitumen and asphalt, natural, asphaltites, asphaltic rocks",9898,bitumen
+1380,4406,Electrical energy,8804,energy
+1381,4407,Chlorine,37401,organochlorine compounds
+1382,4408,Iodine sublimed,23893,iodine
+1383,4415,Hydrogen,4269,hydrogen sulphide
+1384,4416,Argon (rare gases),4322,argon
+1385,4417,Liquid helium (rare gases),9828,helium
+1386,4418,Other gases rare,15449,gases
+1387,4419,Nitrogen,148,plant available nitrogen
+1388,4420,Oxygen,172,oxygen isotopes
+1389,4421,Boron and tellurium,42378,tellurium
+1390,4426,Arsenic,16711,organic arsenic compounds
+1391,4427,Selenium,40732,selenium
+1392,4428,Sodium (alkali metals),9402,alkali metals
+1393,4429,Calcium,1451,calcium cyanamide
+1394,4438,"Hydrides, azides, borides and oth.nitrides and silicides",8140,azides
+1395,4446,"Mercuric chloride ii, for photographic use, for retail sales",9008,sales
+1396,4454,Ether of ethylene glycol isobutyl,12535,ethyl ether
+1397,4473,Eugenol,801,eugenol
+1398,4497,"Medicament contain.lh-rh (gonadorelin), exc.in doses",4257,gonadorelin
+1399,4504,Medicament c/oth.polypeptides hormon.etc.exc.in doses,42590,tides
+1400,4511,Other salts of inorganic acids or peroxoacids,23322,inorganic acids
+1401,4516,Gold sulphide dispersed in gelatin,15624,gelatin
+1402,4517,"Oth.gold compounds  exclusively auranofin, etc.",16671,gold
+1403,4523,"Natural uranium and its compounds, alloys, dispers, etc",12366,alloys
+1404,5623,Pentachlorophenol and its salts,21126,pentachlorophenol
+1405,5621,Trichlorophenols and their salts,8356,chlorophenols
+1406,4545,"4,6-dinitro-o-cresol (dnoc (iso)) e seus sais",6913,dnoc
+1407,5643,Dichlorvos (ddvp),14757,ddvp
+1408,5645,Chlorfenvinphos,14727,chlorfenvinphos
+1409,4561,Fenitrothion,14795,fenitrothion
+1410,4553,Methylparathion,14898,parathion
+1411,4566,Alkyl phosphite (c3 to c13) or alkylaryl,40314,kylar
+1412,4571,Oils of petroleum or of betuminous minerals,34565,minerals
+1413,4572,Petroleum oil or bituminous oils (exc.crude oil),38087,petrol
+1414,4588,Hydrogen cyanide,21711,hydrogen cyanide
+1415,4590,Carbon dioxide,2031,carbon dioxide
+1416,4591,Silicon dioxide obtained by chemical precipitation,39140,precipitation
+1417,4597,Sulphur dioxide,42117,sulphur dioxide
+1418,4607,Isoprene not saturated,21998,isoprene
+1419,4609,Cyclohexane,14821,hexachlorocyclohexane
+1420,4610,Limonene,11494,limonene
+1421,4612,Benzene,14814,benzene hexachloride
+1422,4613,Toluene,11288,butylated hydroxytoluene
+1423,4614,Xylenes,44168,xylene
+1424,4618,Styrene,11564,polystyrene
+1425,4624,A-methylstyrene,11630,styrene
+1426,4629,Chloroform (trichloromethane),12534,chloroform
+1427,4630,Carbon tetrachloride,2040,carbon tetrachloride
+1428,4632,"1, 2-dichloropropene(propylene chloride)and dichlorobut.",21052,dichloropropene
+1429,4636,Benzaldehyde,21701,benzaldehyde
+1430,4642,Ethylvanillin (3-ethoxy-4-hydroxybenzaldehyde),11407,ethylvanillin
+1431,4650,Paraformaldehyde,13900,formaldehyde
+1432,4651,Trichloroacetaldehyde,42650,acetaldehyde
+1433,4660,Trifluralin,14980,trifluralin
+1434,4679,Pendimethalin,14899,pendimethalin
+1435,4829,Heptachlor,14824,heptachlor
+1436,4832,Chlorobenzene,14820,hexachlorobenzene
+1437,4705,Stilboestrol acetate,3307,stilboestrol
+1438,4717,Propionic acid,39282,propionic acid
+1439,4722,"Pebbles, gravel, broken, crushed stone used forconcrete, etc",8183,gravel
+1440,4723,"Macadam of slag, dross, other slags, etc",16120,slags
+1441,4727,"Dolomite, not calcined or sintered, ""raw""",12238,dolomite
+1442,4729,Dolomite ramming mix,16332,ammi
+1443,4733,Gypsum in irregular pieces (stone),19075,gypsum
+1444,4738,"Limestone flux, calcar.stone formanufac.of lime or cement",3151,cement
+1445,4750,Sodium hexafluoroaluminate (synthetic cryolite),43332,cryolite
+1446,4755,Ammonium chloride,19604,ammonium chloride
+1447,4757,Other calcium chloride,4122,calcium chloride
+1448,4759,Other magnesium chloride,7283,magnesium chloride
+1449,4780,Felspar,19708,felspar
+1450,4784,Perlite unexpanded,7405,perlite
+1451,4804,Other hypobromites chlorite,37989,mites
+1452,4805,Sodium chlorates,17177,chlorates
+1453,4809,Sodium bromates,18467,bromates
+1454,4829,Heptachlor,46911,heptachlor epoxide
+1455,4830,Mirex (dodecachlorine),37245,odeca
+1456,4840,Cloronaftalenos,19386,nafta
+1457,4856,"3-(2, 2-dibromovinyl)-2, 2-dimethylcyclopropanecarb. acid",14869,dibrom
+1458,4858,Allethrins,14659,allethrin
+1459,4863,Benzoic acid,40932,benzoic acid herbicides
+1460,4864,"Benzoic acid, its salts",44624,benzoic acid
